@@ -250,5 +250,6 @@ AI Safety Measures:
 
 [![Contact Me](https://img.shields.io/badge/Contact-Me-00D4AA?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I.-2025)
+![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 *Built on 10 years of data solutions engineering expertise across Azure, AWS, and GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
