@@ -2,7 +2,7 @@
 
 [![AI Consulting](https://img.shields.io/badge/AI-Consulting-00C2A0?style=for-the-badge&logo=openai&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
-![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 
 ## 🎯 Mission Statement
 
@@ -250,6 +250,6 @@ AI Safety Measures:
 
 [![Contact Me](https://img.shields.io/badge/Contact-Me-00D4AA?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
-![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 
 *Built on 10 years of data solutions engineering expertise across Azure, AWS, and GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
