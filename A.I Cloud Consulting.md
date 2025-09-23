@@ -1,6 +1,6 @@
 # ☁️ Multi-Cloud AI Architecture - Enterprise Implementation Guide
 
-[![AI Consulting](https://img.shields.io/badge/AI-Consulting-00D4AA?style=for-the-badge&logo=openai&logoColor=white)](mailto:corderio.vonner@outlook.com)
+[![AI Consulting](https://img.shields.io/badge/AI-Consulting-00D4AA?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md)
 [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 ![Cloud](https://img.shields.io/badge/Cloud-Enterprise-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
