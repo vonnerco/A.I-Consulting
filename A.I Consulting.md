@@ -2,7 +2,7 @@
 
 [![AI Consulting](https://img.shields.io/badge/AI-Consulting-00C2A0?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md)
 [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
-[![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
+[![Cloud](https://img.shields.io/badge/Cloud-Native-181717?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 
 ## 🎯 Mission Statement
 
