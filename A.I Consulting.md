@@ -248,7 +248,7 @@ AI Safety Measures:
 
 **🚀 Ready to Transform Your AI Strategy?**
 
-[![Contact Me](https://img.shields.io/badge/Contact-Me-00D4AA?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
+[![Contact Me](https://img.shields.io/badge/Contact-Me-181717?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
 [![Cloud](https://img.shields.io/badge/Cloud-Native-181717?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 
