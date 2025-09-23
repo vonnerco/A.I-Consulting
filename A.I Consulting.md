@@ -1,7 +1,7 @@
 # 🚀 AI Consulting Excellence - Enterprise Transformation 2025
 
 [![AI Consulting](https://img.shields.io/badge/AI-Consulting-00D4AA?style=for-the-badge&logo=openai&logoColor=white)](mailto:corderio.vonner@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I.-2025)
+[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
 ![Cloud](https://img.shields.io/badge/Cloud-Enterprise-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🎯 Mission Statement
@@ -249,6 +249,6 @@ AI Safety Measures:
 **🚀 Ready to Transform Your AI Strategy?**
 
 [![Contact Me](https://img.shields.io/badge/Contact-Me-00D4AA?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
-[![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I.-2025)
+[![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
 
 *Built on 10 years of data solutions engineering expertise across Azure, AWS, and GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
