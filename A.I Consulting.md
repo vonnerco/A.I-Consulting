@@ -252,4 +252,4 @@ AI Safety Measures:
 [![Github Project](https://img.shields.io/badge/Github-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md#-project-portfolio)
 [![Cloud](https://img.shields.io/badge/Cloud-Native-181717?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md)
 
-*Built on 10 years of data solutions engineering expertise across Azure, AWS, and GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
+*10 years of Data Solutions Engineering expertise across Azure, AWS, & GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
