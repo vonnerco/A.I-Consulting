@@ -1,6 +1,6 @@
 # 🚀 AI Consulting Excellence - Enterprise Transformation 2025
 
-[![AI Consulting](https://img.shields.io/badge/AI-Consulting-00E6BB?style=for-the-badge&logo=openai&logoColor=white)](mailto:corderio.vonner@outlook.com)
+[![AI Consulting](https://img.shields.io/badge/AI-Consulting-00997F?style=for-the-badge&logo=openai&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I.-2025)
 ![Cloud](https://img.shields.io/badge/Cloud-Native-FF4C4C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
