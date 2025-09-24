@@ -1,4 +1,4 @@
-# 🚀 AI Consulting Portfolio
+# 🚀 AI Consulting 
 
 Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 500 companies.
 
@@ -27,7 +27,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 🎯 Engagement Options
 
-| Option | Model | Price | $ |
+| Option | Model | Pricing | $ |
 |:---:|:---:|:---:|:---:|
 | 🔄 **Extended Consulting** | Ad Hoc Booking | Project Scope | 30 mins $150 / 45 mins $250 / 1 hour $500 |
 | 🚀 **Build & Deploy** | Full Development, Implementation & Deployment | Milestone-based | Milestone 1 starts at $3,000 |
@@ -35,5 +35,6 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 ## 📞 Contact
 
 [![Contact](https://img.shields.io/badge/Contact-Me-181717?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
+[![Data Engineering](https://img.shields.io/badge/Data-Engineering-181717?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/Data-Engineer-Consulting)
 
 *10 years Data Solutions Engineering • Azure, AWS, GCP • Fortune 500 implementations*
