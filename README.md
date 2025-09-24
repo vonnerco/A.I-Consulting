@@ -27,12 +27,10 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 🎯 Engagement Options
 
-| Option | Model | Price |
-|:---:|:---:|:---:|
-| 🔄 **Continue Access** | 7-day extension | $50 |
-| 🏆 **Own Outright** | One-time purchase | $250 |
-| 🎓 **Extended Consulting** | Deep engagement | Custom |
-| 🚀 **Build & Deploy** | Full implementation | Milestone-based |
+| Option | Model | Price | $ |
+|:---:|:---:|:---:|:---:|
+| 🔄 **Extended Consulting** | Ad Hoc Booking | Project Scope | 30 mins $150 / 45 mins $250 / 1 hour $500 |
+| 🚀 **Build & Deploy** | Full Development, Implementation & Deployment | Milestone-based | Milestone 1 starts at $3,000 |
 
 ## 📞 Contact
 
