@@ -32,4 +32,3 @@ Option	Model	Price
 📞 Contact
 Contact
 
-10 years Data Solutions Engineering • Azure, AWS, GCP • Fortune 500 implementations
