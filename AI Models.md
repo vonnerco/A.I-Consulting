@@ -114,4 +114,11 @@
 
 This table will be confirmed with context windows, costs, and benchmarks as Companies publish them.
 
+**🚀 Ready to Transform Your Multi-Cloud AI Strategy?**
+
+[![Contact Me](https://img.shields.io/badge/Contact-Me-181717?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
+
+*10 years of Data Solutions Engineering expertise across Azure, AWS, & GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
+
+
 *Last updated: September 2025*
