@@ -90,4 +90,15 @@
 - **Specialized Tasks**: Some models excel in specific domains (coding, reasoning, etc.)
 - **Real-time Data**: Only Perplexity Sonar provides real-time web search capabilities
 
+## Emerging / Preview Models (verify vendor specs)
+
+| Model | Vendor | Context Window | Cost per 1M tokens (in/out) | Expected Strength | Notes |
+|---|---|---:|---|---|---|
+| ChatGPT-5 | OpenAI | TBD | TBD | Expected: stronger reasoning, multimodal, lower latency | Verify official OpenAI release notes for specs/pricing — https://platform.openai.com/docs/models |
+| Gemini Next / 2.x (preview) | Google | TBD | TBD | Expected: large-context multimodal improvements | Check Google Gemini / Cloud release notes — https://developers.generativeai.google/
+| Claude Next / Sonnet 4 (announced) | Anthropic | 200K (Sonnet) / 1M (Sonnet-1M variant) | Sonnet: $3 / MTok in, $15 / MTok out (≤200K prompts); Opus 4.1: Input $15 / MTok, Output $75 / MTok | Safety-focused, strong code & reasoning | Anthropic pricing and Sonnet 1M announcement: https://claude.com/pricing#api and https://www.anthropic.com/news/1m-context |
+| Mistral Next (preview) | Mistral AI | TBD | TBD | Expected: improved efficiency and EU compliance options | Mistral docs & models overview: https://docs.mistral.ai/ |
+
+We'll update this table with confirmed context windows, costs, and benchmarks as vendors publish them.
+
 *Last updated: September 2025*
