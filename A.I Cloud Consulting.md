@@ -31,7 +31,7 @@
 
 ---
 
-## 🔶 AWS AI/ML Architecture
+## AWS AI/ML Architecture
 
 ### **Core Foundation Services**
 ```
@@ -67,7 +67,7 @@ SageMaker Ecosystem:
 
 ---
 
-## 🔷 Azure AI/ML Architecture
+## Azure AI/ML Architecture
 
 ### **Cognitive Services Integration**
 ```
@@ -103,7 +103,7 @@ Azure ML Studio:
 
 ---
 
-## 🟢 GCP AI/ML Architecture
+## GCP AI/ML Architecture
 
 ### **Vertex AI Platform**
 ```
@@ -129,7 +129,7 @@ BigQuery Ecosystem:
 
 ---
 
-## 🟣 Databricks Unified Orchestration
+## Databricks Unified Orchestration
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-databricks-unified-orchestration)
 
 ### **Lakehouse Architecture**
