@@ -130,6 +130,7 @@ BigQuery Ecosystem:
 ---
 
 ## 🟣 Databricks Unified Orchestration
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-databricks-unified-orchestration)
 
 ### **Lakehouse Architecture**
 ```
