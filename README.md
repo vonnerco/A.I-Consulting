@@ -11,7 +11,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Industry impact: Healthcare ($31M savings), Finance (78% manual reduction), Smart Cities (31% commute reduction)
 - Modern UI/UX technology stack with React 18+, advanced CSS, performance optimization
 
-Open `A.I Consulting.md` for the full engagement framework, case studies, and implementation approach.
+[Open `A.I Consulting.md`](./A.I%20Consulting.md) for the full engagement framework, case studies, and implementation approach.
 
 ### 2. [A.I Cloud Consulting.md](./A.I%20Cloud%20Consulting.md)
 **Multi-Cloud AI Architecture Guide**
@@ -20,7 +20,7 @@ Open `A.I Consulting.md` for the full engagement framework, case studies, and im
 - Cost reduction strategies: 30-50% savings through multi-cloud arbitrage
 - Security & governance framework with automated compliance monitoring
 
-Open `A.I Cloud Consulting.md` for full architecture diagrams, vendor comparisons, and cost/operational guidance.
+[Open `A.I Cloud Consulting.md`](./A.I%20Cloud%20Consulting.md) for full architecture diagrams, vendor comparisons, and cost/operational guidance.
 
 ### 3. [AI Models.md](./AI%20Models.md)
 **Comprehensive model comparison & operational recommendations**
@@ -38,12 +38,12 @@ Open `AI Models.md` for the full comparison table, up-to-date costs, and recomme
 - Results: 94% complete profiles, $31M savings, 847x faster processing
 - Architecture: AWS Bedrock + Claude 3.5, multi-agent orchestration, RAG implementation
 
-Open `A.I Project.md` for the full case study, architecture diagrams, and implementation outcomes.
+[Open `A.I Project.md`](./A.I%20Project.md) for the full case study, architecture diagrams, and implementation outcomes.
 
 
 ## 🎯 Engagement Options
 
-| Option | Model | Pricing | $ |
+| Option | Model | Pricing | Cost |
 |:---:|:---:|:---:|:---:|
 | 🔄 **Extended Consulting** | Ad Hoc Booking | Project Scope | 30 mins $150 / 45 mins $250 / 1 hour $500 |
 | 🚀 **Build & Deploy** | Full Development, Implementation & Deployment | Milestone-based | Milestone 1 starts at $3,000 |
