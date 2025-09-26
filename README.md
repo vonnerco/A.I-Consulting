@@ -11,7 +11,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Industry impact: Healthcare ($31M savings), Finance (78% manual reduction), Smart Cities (31% commute reduction)
 - Modern UI/UX technology stack with React 18+, advanced CSS, performance optimization
 
-[Open `A.I Consulting.md`](./A.I%20Consulting.md) for the full engagement framework, case studies, and implementation approach.
+Open [A.I Consulting.md](./A.I%20Consulting.md) for the full engagement framework, case studies, and implementation approach.
 
 ### 2. [A.I Cloud Consulting.md](./A.I%20Cloud%20Consulting.md)
 **Multi-Cloud AI Architecture Guide**
@@ -20,7 +20,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Cost reduction strategies: 30-50% savings through multi-cloud arbitrage
 - Security & governance framework with automated compliance monitoring
 
-[Open `A.I Cloud Consulting.md`](./A.I%20Cloud%20Consulting.md) for full architecture diagrams, vendor comparisons, and cost/operational guidance.
+Open [A.I Cloud Consulting.md](./A.I%20Cloud%20Consulting.md) for full architecture diagrams, vendor comparisons, and cost/operational guidance.
 
 ### 3. [AI Models.md](./AI%20Models.md)
 **Comprehensive model comparison & operational recommendations**
@@ -29,7 +29,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Rapid decision guidance (best-for-coding, best-value, and large-context picks) to accelerate vendor selection
 - Includes deployment notes, self-hosting trade-offs, and guidance for RAG/embedding strategies
 
-[Open `AI Models.md`](./AI%20Models.md) for the full comparison table, up-to-date costs, and recommended vendor-specific use cases.
+Open [AI Models.md](./AI%20Models.md) for the full comparison table, up-to-date costs, and recommended vendor-specific use cases.
 
 ### 4. [A.I Project.md](./A.I%20Project.md)
 **Healthcare Data Unification Case Study**
@@ -38,7 +38,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Results: 94% complete profiles, $31M savings, 847x faster processing
 - Architecture: AWS Bedrock + Claude 3.5, multi-agent orchestration, RAG implementation
 
-[Open `A.I Project.md`](./A.I%20Project.md) for the full case study, architecture diagrams, and implementation outcomes.
+Open [A.I Project.md](./A.I%20Project.md) for the full case study, architecture diagrams, and implementation outcomes.
 
 
 ## 🎯 Engagement Options
