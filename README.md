@@ -29,7 +29,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Rapid decision guidance (best-for-coding, best-value, and large-context picks) to accelerate vendor selection
 - Includes deployment notes, self-hosting trade-offs, and guidance for RAG/embedding strategies
 
-Open `AI Models.md` for the full comparison table, up-to-date costs, and recommended vendor-specific use cases.
+[Open `AI Models.md`](./AI%20Models.md) for the full comparison table, up-to-date costs, and recommended vendor-specific use cases.
 
 ### 4. [A.I Project.md](./A.I%20Project.md)
 **Healthcare Data Unification Case Study**
