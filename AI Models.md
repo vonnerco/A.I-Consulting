@@ -1,18 +1,26 @@
 # AI Models Comparison Table (2025)
 
+[![Comparison](https://img.shields.io/badge/Comparison-Table-0078D4?style=for-the-badge&logo=tableau&logoColor=white)](#comprehensive-feature-comparison-by-company)
+[![Recommendations](https://img.shields.io/badge/Recommendations-🎯-34A853?style=for-the-badge&logo=check-circle&logoColor=white)](#recommendations-by-use-case)
+[![Key Considerations](https://img.shields.io/badge/Considerations-📌-FF9900?style=for-the-badge&logo=info&logoColor=white)](#key-considerations)
+[![Emerging](https://img.shields.io/badge/Emerging-Preview-FF3621?style=for-the-badge&logo=rocket&logoColor=white)](#emerging-preview-models-beta)
+
+<a id="popular-models"></a>
 ## 🤖 **Popular AI Models for Development**
 
-| Model Name | Company | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions (Low Token) | Key Features |
-|------------|---------|----------------|-----------------------------------|-----------------|---------------------------------------|--------------|
-| **Gemini 1.5 Flash** | Google | 1M tokens | $0.075 / $0.30 | ⚠️ Good | ✅ Excellent | Ultra-fast and cheap |
-| **Claude 3 Haiku** | Anthropic | 200K tokens | $0.25 / $1.25 | ⚠️ Good | ✅ Excellent | Fast and efficient |
-| **GPT-3.5 Turbo** | OpenAI | 16K tokens | $0.50 / $1.50 | ⚠️ Good | ✅ Very Good | Cost-effective option |
-| **GPT-4o** | OpenAI | 128K tokens | $2.50 / $10.00 | ✅ Excellent | ❌ Expensive | Multimodal capabilities |
-| **Claude 3.5 Sonnet** | Anthropic | 200K tokens | $3.00 / $15.00 | ✅ Excellent | ❌ Moderate Cost | Excellent for coding |
-| **Gemini 1.5 Pro** | Google | 1M tokens | $3.50 / $10.50 | ✅ Excellent | ❌ Moderate Cost | Massive context window |
-| **GPT-4** | OpenAI | 8K tokens | $30.00 / $60.00 | ✅ Excellent | ❌ Very Expensive | Classic GPT-4 |
+| Company | Model Name | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions (Low Token) | Key Features |
+|---------|------------|----------------|-----------------------------------|-----------------|---------------------------------------|--------------|
+| Google | **Gemini 1.5 Flash** | 1M tokens | $0.075 / $0.30 | ⚠️ Good | ✅ Excellent | Ultra-fast and cheap |
+| Anthropic | **Claude 3 Haiku** | 200K tokens | $0.25 / $1.25 | ⚠️ Good | ✅ Excellent | Fast and efficient |
+| OpenAI | **GPT-3.5 Turbo** | 16K tokens | $0.50 / $1.50 | ⚠️ Good | ✅ Very Good | Cost-effective option |
+| OpenAI | **GPT-4o** | 128K tokens | $2.50 / $10.00 | ✅ Excellent | ❌ Expensive | Multimodal capabilities |
+| Anthropic | **Claude 3.5 Sonnet** | 200K tokens | $3.00 / $15.00 | ✅ Excellent | ❌ Moderate Cost | Excellent for coding |
+| Google | **Gemini 1.5 Pro** | 1M tokens | $3.50 / $10.50 | ✅ Excellent | ❌ Moderate Cost | Massive context window |
+| OpenAI | **GPT-4** | 8K tokens | $30.00 / $60.00 | ✅ Excellent | ❌ Very Expensive | Classic GPT-4 |
 
 
+<a id="comparison"></a>
+<a id="comprehensive-feature-comparison-by-company"></a>
 ## Comprehensive Feature Comparison by Company
 
 | Company | Model Name | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions (Low Token) | Key Strengths |
@@ -39,6 +47,8 @@
 | **AI21** | Jurassic-2 Ultra | 8K tokens | $15.00 / $15.00 | ⚠️ Good | ✅ Very Good | Grammatical correction, text segmentation |
 | **Inflection AI** | Pi | 32K tokens | $0.40 / $0.40 | ⚠️ Good | ✅ Excellent | Personal AI assistant, well-being focused |
 
+<a id="recommendations"></a>
+<a id="recommendations-by-use-case"></a>
 ## Recommendations by Use Case
 
 ### 🎯 **Development Recommendations**
@@ -82,6 +92,7 @@
 3. **DeepSeek R1** - $0.14/$0.28 per 1M tokens
 4. **GPT-4o mini** - $0.15/$0.60 per 1M tokens
 
+<a id="key-considerations"></a>
 ## Key Considerations
 
 - **Token Costs**: Prices can change frequently; always check current pricing
@@ -90,15 +101,17 @@
 - **Specialized Tasks**: Some models excel in specific domains (coding, reasoning, etc.)
 - **Real-time Data**: Only Perplexity Sonar provides real-time web search capabilities
 
-## Emerging / Preview Models (verify vendor specs)
+<a id="emerging-preview"></a>
+<a id="emerging-preview-models-beta"></a>
+## Emerging / Preview Models (BETA)
 
-| Model | Vendor | Context Window | Cost per 1M tokens (in/out) | Expected Strength | Notes |
-|---|---|---:|---|---|---|
+| Model | Company | Context Window | Cost per 1M tokens (in/out) | Expected Strength | Notes |
+---|---|---:|---|---|---|
 | ChatGPT-5 | OpenAI | TBD | TBD | Expected: stronger reasoning, multimodal, lower latency | Verify official OpenAI release notes for specs/pricing — https://platform.openai.com/docs/models |
-| Gemini Next / 2.x (preview) | Google | TBD | TBD | Expected: large-context multimodal improvements | Check Google Gemini / Cloud release notes — https://developers.generativeai.google/
 | Claude Next / Sonnet 4 (announced) | Anthropic | 200K (Sonnet) / 1M (Sonnet-1M variant) | Sonnet: $3 / MTok in, $15 / MTok out (≤200K prompts); Opus 4.1: Input $15 / MTok, Output $75 / MTok | Safety-focused, strong code & reasoning | Anthropic pricing and Sonnet 1M announcement: https://claude.com/pricing#api and https://www.anthropic.com/news/1m-context |
+| Gemini Next / 2.x (preview) | Google | TBD | TBD | Expected: large-context multimodal improvements | Check Google Gemini / Cloud release notes — https://developers.generativeai.google/ |
 | Mistral Next (preview) | Mistral AI | TBD | TBD | Expected: improved efficiency and EU compliance options | Mistral docs & models overview: https://docs.mistral.ai/ |
 
-We'll update this table with confirmed context windows, costs, and benchmarks as vendors publish them.
+This table will be confirmed with context windows, costs, and benchmarks as Companies publish them.
 
 *Last updated: September 2025*
