@@ -1,10 +1,10 @@
 # ☁️ Multi-Cloud AI Architecture - Enterprise Implementation Guide
 
 [![AI Cloud Consulting](https://img.shields.io/badge/AI-Consulting-181717?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Consulting.md)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-aws-aiml-architecture)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-azure-aiml-architecture)
-[![GCP](https://img.shields.io/badge/GCP-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-gcp-aiml-architecture)
-[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#-databricks-unified-orchestration)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#aws-ai-ml-architecture)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#azure-ai-ml-architecture)
+[![GCP](https://img.shields.io/badge/GCP-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#gcp-ai-ml-architecture)
+[![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/A.I%20Cloud%20Consulting.md#databricks-unified-orchestration)
 
 ## 🎯 Executive Overview
 
@@ -31,6 +31,7 @@
 
 ---
 
+<a id="aws-ai-ml-architecture"></a>
 ## AWS AI/ML Architecture
 
 ### **Core Foundation Services**
@@ -67,6 +68,7 @@ SageMaker Ecosystem:
 
 ---
 
+<a id="azure-ai-ml-architecture"></a>
 ## Azure AI/ML Architecture
 
 ### **Cognitive Services Integration**
@@ -103,6 +105,7 @@ Azure ML Studio:
 
 ---
 
+<a id="gcp-ai-ml-architecture"></a>
 ## GCP AI/ML Architecture
 
 ### **Vertex AI Platform**
