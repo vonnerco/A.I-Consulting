@@ -25,7 +25,27 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Results: 94% complete profiles, $31M savings, 847x faster processing
 - Architecture: AWS Bedrock + Claude 3.5, multi-agent orchestration, RAG implementation
 
+### 4. [AI Models.md](./AI%20Models.md)
+**Model Catalog & Guidance**
+- Descriptions and recommended use-cases for LLMs, foundation models, and fine-tuning approaches
+- Evaluation metrics, safety notes, and deployment patterns for production-grade model serving
 
+### 5. [MCP.md](./MCP.md)
+**Model Context Protocol (MCP) Notes**
+- Design and examples for maintaining context across multi-turn LLM interactions
+- Best practices for transcripts, token budgeting, and state management
+
+### 6. [Technical Competencies.md](./Technical%20Competencies.md)
+**Global FinTech & AI Engineering Talent Database**
+- Core technical specialties, global locations, employment types, and technology clusters
+- Quick links for hiring, introductions, and collaboration badges
+
+## 🎯 Engagement Options
+
+| Option | Model | Pricing | $ |
+|:---:|:---:|:---:|:---:|
+| 🔄 **Extended Consulting** | Ad Hoc Booking | Project Scope | 30 mins $150 / 45 mins $250 / 1 hour $500 |
+| 🚀 **Build & Deploy** | Full Development, Implementation & Deployment | Milestone-based | Milestone 1 starts at $3,000 |
 
 ## 📞 Contact
 
