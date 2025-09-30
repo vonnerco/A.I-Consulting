@@ -40,7 +40,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Operational guidance: token budgeting, transcript redaction, caching strategies, and minimal examples (long-document Q&A, multi-agent workflows)
 
 ### 6. [Technical Competencies.md](./Technical%20Competencies.md)
-**AI Engineering Talent Database**
+**AI Engineering Talent**
 - Purpose: searchable directory of technical specialties, geographies, and high availability for rapid sourcing
 - Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
 - Usage: suggested filters, sample queries, and recommended hiring workflow (screen → technical check → shortlist)
