@@ -1,8 +1,8 @@
 # 🚀 MCP Engineering Excellence: Human-Centric AI Solutions
 
-[![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-FF6B6B?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://anthropic.com)
+[![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-FF6B6B?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://www.ibm.com/think/topics/enterprise-ai)
 [![MCP Architecture](https://img.shields.io/badge/MCP-Infrastructure-4A90E2?style=for-the-badge&logo=docker&logoColor=white)](https://modelcontextprotocol.io/docs/getting-started/intro)
-[![Security First](https://img.shields.io/badge/Security-First-2ECC71?style=for-the-badge&logo=ssl&logoColor=white)](#security--compliance)
+[![Security First](https://img.shields.io/badge/MCP-Seurity-2ECC71?style=for-the-badge&logo=ssl&logoColor=white)](https://modelcontextprotocol.io/specification/draft/basic/security_best_practices)
 
 > *"Bridging the gap between cutting-edge AI and enterprise needs, one secure implementation at a time."*
 
