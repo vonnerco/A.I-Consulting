@@ -172,6 +172,8 @@ Looking ahead, I'm focused on:
 
 ---
 
+## 🎯 Next Steps
+
 ## 📫 Connect & Collaborate
 
 [![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
@@ -181,3 +183,4 @@ Looking ahead, I'm focused on:
 ---
 
 *Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
+
