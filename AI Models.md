@@ -91,3 +91,16 @@
 - **Real-time Data**: Only Perplexity Sonar provides real-time web search capabilities
 
 *Last updated: September 2025*
+
+## 🎯 Next Steps
+
+## 📫 Connect & Collaborate
+
+[![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
+
+---
+
+*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
+
