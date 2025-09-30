@@ -1,4 +1,4 @@
-# AI Engineering Talent Database
+# AI Engineering Talent 
 
 ## Core Technical Specialties
 
