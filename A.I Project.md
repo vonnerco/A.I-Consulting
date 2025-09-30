@@ -1,6 +1,5 @@
 # 🏥 AI System: Healthcare Data Unification Platform
 
-[![AI Consulting](https://img.shields.io/badge/AI-Consulting-181717?style=for-the-badge&logo=openai&logoColor=white)](./A.I%20Consulting.md)
 [![Cloud Consulting](https://img.shields.io/badge/Cloud-Consulting-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](./A.I%20Cloud%20Consulting.md)
 [![Repository](https://img.shields.io/badge/Repository-Overview-181717?style=for-the-badge&logo=github&logoColor=white)](./README.md)
 
@@ -119,10 +118,14 @@ Healthcare AI Platform:
 
 ---
 
-## 📞 Contact
+## 🎯 Next Steps
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corderio.vonner@outlook.com)
-[![AI Consulting](https://img.shields.io/badge/AI-Consulting-181717?style=for-the-badge&logo=openai&logoColor=white)](./A.I%20Consulting.md)
-[![Cloud Architecture](https://img.shields.io/badge/Cloud-Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](./A.I%20Cloud%20Consulting.md)
+## 📫 Connect & Collaborate
 
-*Healthcare AI Innovation • 2.8M Patients • $31M Savings • 99.97% Uptime*
+[![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
+
+---
+
+*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
