@@ -27,18 +27,24 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ### 4. [AI Models.md](./AI%20Models.md)
 **Model Catalog & Guidance**
-- Descriptions and recommended use-cases for LLMs, foundation models, and fine-tuning approaches
-- Evaluation metrics, safety notes, and deployment patterns for production-grade model serving
+- Inventory of recommended models (LLMs, foundation models, specialty models) mapped to common tasks: extraction, summarization, RAG, codegen, and classification
+- Recommendations for prompt engineering vs. fine-tuning; cost/latency tradeoffs and when to use hosted vs. on-prem inference
+- Deployment notes: containerized inference, batching, quantization, autoscaling, and monitoring (latency, throughput, error/hallucination rates)
+- Evaluation checklist: benchmarks, human-in-the-loop validation, safety/scoped guardrails, and rollout staging
 
 ### 5. [MCP.md](./MCP.md)
-**Model Context Protocol (MCP) Notes**
-- Design and examples for maintaining context across multi-turn LLM interactions
-- Best practices for transcripts, token budgeting, and state management
+**Model Context Protocol (MCP) Overview**
+- Purpose: a lightweight protocol for preserving multi-turn context, traceability, and safe state handoff between agents and services
+- Core components: session id, turn history, retrieval metadata, token-budget header, and retention policy
+- Patterns: chunking + vector retrieval, context windows, progressive summarization, and explicit system prompts for safety
+- Operational guidance: token budgeting, transcript redaction, caching strategies, and minimal examples (long-document Q&A, multi-agent workflows)
 
 ### 6. [Technical Competencies.md](./Technical%20Competencies.md)
-**Global FinTech & AI Engineering Talent Database**
-- Core technical specialties, global locations, employment types, and technology clusters
-- Quick links for hiring, introductions, and collaboration badges
+**AI Engineering Talent Database**
+- Purpose: searchable directory of technical specialties, geographies, and high availability for rapid sourcing
+- Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
+- Usage: suggested filters, sample queries, and recommended hiring workflow (screen → technical check → shortlist)
+
 
 ---
 ## 🎯 Next Steps
