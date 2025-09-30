@@ -350,8 +350,12 @@ Enterprise Readiness:
 
 ---
 
-**🚀 Ready to Transform Your Multi-Cloud AI Strategy?**
+## 📫 Connect & Collaborate
 
-[![Contact Me](https://img.shields.io/badge/Contact-Me-181717?style=for-the-badge&logo=mail&logoColor=white)](mailto:corderio.vonner@outlook.com)
+[![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
 
-*10 years of Data Solutions Engineering expertise across Azure, AWS, & GCP, with proven Fortune 500 implementations delivering 250%+ ROI through innovative AI/ML solutions.*
+---
+
+*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
