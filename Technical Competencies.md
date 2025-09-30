@@ -1,4 +1,4 @@
-# Global FinTech & AI Engineering Talent Database
+# AI Engineering Talent Database
 
 ## Core Technical Specialties
 
