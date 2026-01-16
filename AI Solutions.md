@@ -1,4 +1,4 @@
-# 🚀 AI Cost‑Efficient Production Engineering Playbook
+# 🚀 AI Cost‑Efficient Engineering Playbook
 
 > **How I design, develop, deploy, *and* optimize AI systems for real‑world business cost efficiency**
 
