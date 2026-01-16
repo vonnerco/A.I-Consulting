@@ -4,20 +4,21 @@
 
 This demonstrates how my strategic approach to AI engineering does **not stop at getting models into production**. I explicitly design AI agents, LLM pipelines, and AI Solutions to be **token‑efficient, cost‑aware, and economically scalable**.
 
-**tokens are business dollars**.
+$**Tokens are Business Dollars**$
 
 ---
 
-## 🎯 Why This Matters in Production AI
+## 🎯 Why This Matters in Production AI Applications
 
 Most AI failures in production are **not technical**—they are **economic**.
 
-Systems fail when:
+AI Solutions fail when:
 
 * Token usage grows faster than revenue
 * Responses are verbose instead of purposeful
-* Agents reason when retrieval would suffice
 * Costs scale linearly with traffic
+* Agents reason when [RAG](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation/) would suffice
+
 
 My philosophy:
 
