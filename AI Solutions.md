@@ -2,7 +2,9 @@
 
 > **How I design, develop, deploy, monitor *&* optimize AI systems for real‑world business cost efficiency**
 
-This document exists to demonstrate that my approach to AI engineering does **not stop at getting models into production**. I explicitly design AI agents, pipelines, and systems to be **token‑efficient, cost‑aware, and economically scalable**—because **tokens are business dollars**.
+This demonstrates how my strategic approach to AI engineering does **not stop at getting models into production**. I explicitly design AI agents, LLM pipelines, and AI Solutions to be **token‑efficient, cost‑aware, and economically scalable**.
+
+**tokens are business dollars**.
 
 ---
 
