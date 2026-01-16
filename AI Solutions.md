@@ -1,6 +1,6 @@
 # 🚀 AI Cost‑Efficient Engineering Playbook
 
-> **How I design, develop, deploy, *and* optimize AI systems for real‑world business cost efficiency**
+> **How I design, develop, deploy, monitor *&* optimize AI systems for real‑world business cost efficiency**
 
 This document exists to demonstrate that my approach to AI engineering does **not stop at getting models into production**. I explicitly design AI agents, pipelines, and systems to be **token‑efficient, cost‑aware, and economically scalable**—because **tokens are business dollars**.
 
