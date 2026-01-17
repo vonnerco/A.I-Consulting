@@ -72,7 +72,7 @@ Top 3 reasons production AI systems fail:
 
 Every model's response is a **structured object**, not just text.
 
-The most important extraction path:
+How values are extracted:
 
 ```python
 response.choices[0].message.content
