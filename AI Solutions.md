@@ -79,7 +79,7 @@ This path appears everywhere:
 
 ---
 
-## 🧮 Token Economics (Where Engineering Meets Business)
+## Token Economics (Where Engineering Meets Business)
 
 ### Tokens Are the Unit of Cost
 
