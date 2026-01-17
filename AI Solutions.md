@@ -14,7 +14,7 @@
 [![Token Economics](https://img.shields.io/badge/Token%20Economics-2EA44F?style=for-the-badge&logo=dollar&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#token-economics-where-engineering-meets-business)
 [![Token Optimization](https://img.shields.io/badge/Token%20Optimization-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-why-token-optimization-is-a-core-design-constraint)
 [![Business Impact](https://img.shields.io/badge/Business%20Impact-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-real-business-cost-impact)
-[![Milestone Achieved](https://img.shields.io/badge/Milestone%20Achieved-34A853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
+[![3 D's](https://img.shields.io/badge/Milestone%20Achieved-34A853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
 
 <!-- ================================================= -->
 
