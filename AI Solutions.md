@@ -8,13 +8,11 @@
 
 <!-- ================= QUICK LINKS ================= -->
 
-[![Why It Matters](https://img.shields.io/badge/Why%20It%20Matters-0A0A0A?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#why-this-matters-in-production-ai-applications)
-[![End-to-End](https://img.shields.io/badge/End--to--End-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
-[![Extract Value](https://img.shields.io/badge/Extract%20Value-6E40C9?style=for-the-badge&logo=code&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#extracting-value-from-responses)
-[![Token Economics](https://img.shields.io/badge/Token%20Economics-2EA44F?style=for-the-badge&logo=dollar&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#token-economics-where-engineering-meets-business)
-[![Token Optimization](https://img.shields.io/badge/Token%20Optimization-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-why-token-optimization-is-a-core-design-constraint)
-[![Business Impact](https://img.shields.io/badge/Business%20Impact-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-real-business-cost-impact)
-[![3 D's](https://img.shields.io/badge/3D's-34A853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
+[![AI in Production](https://img.shields.io/badge/AI%20in%20Production-0A0A0A?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#why-this-matters-in-production-ai-applications)
+[![Strategic Development](https://img.shields.io/badge/%20Development-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
+[![Extraction](https://img.shields.io/badge/⛏️%20EXTRACTION-FF0000?style=for-the-badge&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#extracting-value-from-responses)
+[![Tokens](https://img.shields.io/badge/Tokens-FF8C00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=FF8C00)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
+[![Business Impact](https://img.shields.io/badge/Business%20Impact-34A853?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-real-business-cost-impact)
 
 
 <!-- ================================================= -->
