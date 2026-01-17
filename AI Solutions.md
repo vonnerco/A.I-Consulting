@@ -83,9 +83,9 @@ This path appears everywhere:
 
 ### Tokens Are the Unit of Cost
 
-* Input tokens = what **you send**
-* Output tokens = what **the model returns**
-* Total tokens = what **the business pays for**
+* Input tokens = what is sent
+* Output tokens = what is returned
+* Total tokens = what is charged
 
 ```text
 total_tokens = prompt_tokens + completion_tokens
