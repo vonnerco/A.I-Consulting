@@ -2,22 +2,23 @@
 
 > **Strategic design, develop *&* deployment of AI Solutions for business cost efficiency**
 
-My strategic approach to AI engineering does **not stop at deploying models to production**. 
-I explicitly design AI Agents, LLM Pipelines, & AI Systems to be 
-**token‑efficient, cost-aware, secure, and scalable**.
+Designing & developing AI systems doesn't stop at **deploying models to production**.  
+I intentionally design **AI Agents**, **LLM Pipelines**, & **AI Systems** to be 
+token-efficient, secure, and scalable.
 
-$**Tokens are Business Dollars**$
+
+*$*Tokens are Business Dollars*$*
 
 ---
 
 ## Why This Matters in Production AI Applications
 
-AI failures in production environments are **not technical**—but **economic**.
+AI failures in production environments aren't **technical** but **economic**.
 
 Top 3 reasons production AI systems fail:
 
 1. API Token usage grows faster than revenue
-2. LLM responses are verbose instead of simple* 
+2. LLM responses are verbose instead of simple 
 3. AI model reasons instead of using **[RAG](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation/)**
  
 My philosophy:
