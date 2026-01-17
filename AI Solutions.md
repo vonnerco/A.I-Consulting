@@ -55,11 +55,11 @@ My philosophy:
 
 ---
 
-## 🧩 Extracting Value From Responses
+## Extracting Value From Responses
 
-Every OpenAI response is a **structured object**, not just text.
+Every model's response is a **structured object**, not just text.
 
-The single most important extraction path:
+The most important extraction path:
 
 ```python
 response.choices[0].message.content
@@ -69,8 +69,11 @@ This pattern appears everywhere:
 
 * Chatbots
 * RAG pipelines
+* Prompt engineering
+* Function calling
+* Agentic AI
 * Agent frameworks
-* Tool‑calling systems
+
 
 > **If you understand this path, you can build any LLM‑based system.**
 
