@@ -7,7 +7,7 @@
 <!-- ================= QUICK LINKS ================= -->
 
 [![AI in Production](https://img.shields.io/badge/AI%20in%20Production-0A0A0A?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#why-this-matters-in-production-ai-applications)
-[![Strategic Development](https://img.shields.io/badge/Strategic%20Development-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-what-ive-designed-developed--deployed-endtoend)
+[![Strategic Development](https://img.shields.io/badge/%20Development-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-what-ive-designed-developed--deployed-endtoend)
 [![Extraction](https://img.shields.io/badge/⛏️%20EXTRACTION-FF0000?style=for-the-badge&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#%EF%B8%8F-extracting-value-from-responses)
 [![Tokens](https://img.shields.io/badge/🪙%20Tokens-FF8C00?style=for-the-badge&logoColor=white&labelColor=FF8C00)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#token-economics-where-engineering-meets-business)
 [![Business Impact](https://img.shields.io/badge/💲%20Business%20Impact-34A853?style=for-the-badge&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#real-business-cost-impact)
