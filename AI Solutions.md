@@ -1,28 +1,20 @@
 # Cost‑Efficient AI Engineering 
 
-👉 **Click a badge to jump to that section** 👈  
+**Click to jump to section** 👈   
 
 <!-- ================================================= -->
-
-<!-- ================= QUICK LINKS ================= -->
 
 <!-- ================= QUICK LINKS ================= -->
 
 [![AI in Production](https://img.shields.io/badge/AI%20in%20Production-0A0A0A?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#why-this-matters-in-production-ai-applications)
 [![Strategic Development](https://img.shields.io/badge/%20Development-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#what-ive-designed-developed--deployed-endtoend)
 [![Extraction](https://img.shields.io/badge/⛏️%20EXTRACTION-FF0000?style=for-the-badge&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#extracting-value-from-responses)
-[![Tokens](https://img.shields.io/badge/Tokens-FF8C00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=FF8C00)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#token-economics-where-engineering-meets-business)
+[![Tokens](https://img.shields.io/badge/🪙%20Tokens-FF8C00?style=for-the-badge&logoColor=white&labelColor=FF8C00)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#token-economics-where-engineering-meets-business)
 [![Business Impact](https://img.shields.io/badge/💲%20Business%20Impact-34A853?style=for-the-badge&logoColor=white)](https://github.com/vonnerco/A.I-Consulting/blob/main/AI%20Solutions.md#-real-business-cost-impact)
-
-
-
 <!-- ================================================= -->
 
 
-<!-- ================================================= -->
-
-
-> **Strategic design, develop *&* deployment of AI Solutions for business cost efficiency**
+> **Strategic design, develop *&* deployment of AI Solutions for business cost efficiency** 
 
 Designing & developing AI systems doesn't stop at **deploying models to production**.  
 I intentionally design **AI Agents**, **LLM Pipelines**, & **AI Systems** to be 
@@ -49,7 +41,7 @@ My philosophy:
 
 ---
 
-## What I’ve Designed, Developed & Deployed (End‑to‑End)
+## 🧠 What I’ve Designed, Developed & Deployed (End‑to‑End)
 
 ### ✅ Environment & Infrastructure
 
@@ -77,7 +69,7 @@ My philosophy:
 
 ---
 
-## Extracting Value From Responses
+## 🛠️ Extracting Value From Responses
 
 Every model's response is a **structured object**, not just text.
 
@@ -121,7 +113,7 @@ response.usage
 
 ---
 
-## 💸 Why Token Optimization Is a Core Design Constraint
+## Why Token Optimization Is a Core Design Constraint
 
 ### Typical Pricing Reality (Example)
 
@@ -134,7 +126,7 @@ This leads to a critical insight:
 
 ---
 
-## 🛠️ How I Engineer for Token Efficiency
+## How I Engineer for Token Efficiency
 
 ### 🔹 Prompt Engineering
 
@@ -159,7 +151,7 @@ This leads to a critical insight:
 
 ---
 
-## 🏢 Real Business Cost Impact
+## Real Business Cost Impact
 
 ### AI‑Powered Customer Support Example
 
@@ -183,7 +175,7 @@ $25/hour × 8 hours = $200/day
 
 ---
 
-## 🧠 Key Engineering Takeaway
+## Key Engineering Takeaway
 
 ```python
 response.choices[0].message.content
@@ -200,7 +192,7 @@ It represents:
 
 ---
 
-## 🎉 Milestone Achieved
+## Milestone Achieved
 
 You’ve demonstrated mastery of:
 
