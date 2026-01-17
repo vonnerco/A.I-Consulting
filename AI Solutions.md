@@ -65,7 +65,7 @@ The most important extraction path:
 response.choices[0].message.content
 ```
 
-This pattern appears everywhere:
+This path appears everywhere:
 
 * Chatbots
 * RAG pipelines
@@ -75,7 +75,7 @@ This pattern appears everywhere:
 * Agent frameworks
 
 
-> **If you understand this path, you can build any LLM‑based system.**
+> **This path is critical for LLM‑based AI systems.**
 
 ---
 
