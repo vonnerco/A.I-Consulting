@@ -4,27 +4,10 @@ Use the links below to navigate directly to the section you need.
 - **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**  
   _Explore the full comparison table with context, cost, and strengths of all major AI models._
 
-- **[What’s New Since 2025](#what-s-new-since-2025)**  
-  _Discover the newest models and advancements in AI._  
-  - 🌟 Frontier Proprietary Models  
-    _Top-tier commercial AI releases with enhanced capabilities._  
-  - 🔓 Open-Source & Emerging Models  
-    _Free and community-driven models competing with proprietary alternatives._  
-  - 🔄 Ongoing Developments  
-    _Upcoming AI models and anticipated releases in 2026._
-
 - **[Quick Recommendation (2026)](#-quick-recommendation-2026)**  
-  _Guidance on choosing the best AI model based on use-case._  
-  - 🛠 Coding & Development  
-    _Models optimized for software engineering and programming tasks._  
-  - 📚 General Purpose / Reasoning  
-    _Balanced AI for reasoning, analysis, and general productivity._  
-  - 🏎️ Fast & Cheap  
-    _Lightweight or cost-effective options for rapid responses._
+  _Guidance on choosing the best AI model based on your specific bisness use-case._  
 
 ---
-
-
 ## 🤖 Latest AI Model Comparison (2026)
 
 | Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
