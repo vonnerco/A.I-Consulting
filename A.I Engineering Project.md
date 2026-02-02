@@ -1,10 +1,7 @@
 # 🏥 AI System: Healthcare Data Unification Platform
 
-[![Cloud Engineering](https://img.shields.io/badge/Cloud-Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](./A.I%20Cloud%20Engineering.md)
-[![Repository](https://img.shields.io/badge/Repository-Overview-181717?style=for-the-badge&logo=github&logoColor=white)](./README.md)
-
 ## 🎯 System Overview
-Architected enterprise-scale AI pipeline for healthcare SaaS startup serving **2.8M patients** across **450+ providers**. Unified **847TB** of fragmented patient data from **23 disparate systems** into centralized intelligence platform with **94% complete patient profiles**.
+I led design & development of the enterprise-scale AI pipeline for the Cox acruired Healthcare SaaS startup. This Healthcare Company served over **2.8M patients** Nation wide. They had over **450+ providers** within their network. They had over **847TB** of fragmented patient data from over **25 EMR systems**. I built an AI Intelligence platform that processed over **94% complete patient profiles** from a RAG architected vector database.
 
 ---
 
