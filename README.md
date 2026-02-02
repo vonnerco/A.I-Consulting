@@ -22,7 +22,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Industry impact: Healthcare ($31M savings), Finance (78% manual reduction), Smart Cities (31% commute reduction)
 - Modern UI/UX technology stack with React 18+, advanced CSS, performance optimization
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -33,7 +33,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Cost reduction strategies: 30–50% savings through multi-cloud arbitrage
 - Security & governance framework with automated compliance monitoring
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -44,7 +44,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Results: 94% complete profiles, $31M savings, 847x faster processing
 - Architecture: AWS Bedrock + Claude 3.5, multi-agent orchestration, RAG implementation
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -55,7 +55,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Deployment notes: containerized inference, batching, quantization, autoscaling, and monitoring (latency, throughput, error/hallucination rates)
 - Evaluation checklist: benchmarks, human-in-the-loop validation, safety/scoped guardrails, and rollout staging
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -68,7 +68,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
   - Evaluation criteria and metric templates for ML Ops
 - Designed for rapid acceleration of enterprise AI delivery
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -79,7 +79,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Patterns: chunking + vector retrieval, context windows, progressive summarization, and explicit system prompts for safety
 - Operational guidance: token budgeting, transcript redaction, caching strategies, and minimal examples (long-document Q&A, multi-agent workflows)
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
@@ -89,7 +89,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
 - Usage: suggested filters, sample queries, and recommended hiring workflow (screen → technical check → shortlist)
 
-[Back to TOC](#table-of-contents)
+[Back to Top](#)
 
 ---
 
