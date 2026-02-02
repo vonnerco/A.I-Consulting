@@ -5,13 +5,13 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 <a id="top"></a>
 
 ## 📋 Table of Contents
-1. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md" target="_blank" rel="noopener noreferrer">AI Engineering.md</a> | <a href="#1-ai-engineeringmd">README</a>
-2. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md" target="_blank" rel="noopener noreferrer">AI Cloud Engineering.md</a> | <a href="#2-ai-cloud-engineeringmd">README</a>
-3. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md" target="_blank" rel="noopener noreferrer">AI Engineering Project.md</a> | <a href="#3-ai-engineering-projectmd">README</a>
-4. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Models.md" target="_blank" rel="noopener noreferrer">AI Models.md</a> | <a href="#4-ai-modelsmd">README</a>
-5. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md" target="_blank" rel="noopener noreferrer">AI Solutions.md</a> | <a href="#5-ai-solutionsmd">README</a>
-6. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md" target="_blank" rel="noopener noreferrer">MCP.md</a> | <a href="#6-mcpmd">README</a>
-7. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md" target="_blank" rel="noopener noreferrer">AI, Data & Software Engineering Skills</a> | <a href="#7-technical-competenciesmd">README</a>
+- **AI Engineering.md** | <a href="#1-ai-engineeringmd">README</a>
+- **AI Cloud Engineering.md** | <a href="#2-ai-cloud-engineeringmd">README</a>
+- **AI Engineering Project.md** | <a href="#3-ai-engineering-projectmd">README</a>
+- **AI Models.md** | <a href="#4-ai-modelsmd">README</a>
+- **AI Solutions.md** | <a href="#5-ai-solutionsmd">README</a>
+- **MCP.md** | <a href="#6-mcpmd">README</a>
+- **AI, Data & Software Engineering Skills** | <a href="#7-technical-competenciesmd">README</a>
 
 ---
 
