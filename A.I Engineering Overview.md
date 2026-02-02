@@ -13,7 +13,7 @@ This framework organizes AI engineering into phases, technical stack, governance
 ## 📋 AI Implementation Summary
 
 <details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand AI Implementation Guide</summary>
+<summary style="font-size:16px; cursor:pointer;">Click to expand AI Implementation Summary</summary>
 
 ### Pre-Implementation Requirements
 
