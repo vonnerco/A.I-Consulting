@@ -35,7 +35,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 2.<a id="2-ai-cloud-engineeringmd"></a>
+### <a id="2-ai-cloud-engineeringmd"></a>
 [AI Cloud Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md)
 
 **Multi-Cloud AI Architecture Guide**
@@ -48,7 +48,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 3.<a id="3-ai-engineering-projectmd"></a>
+### <a id="3-ai-engineering-projectmd"></a>
 [AI Engineering Project.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md)
 
 **Healthcare Data Unification Case Study**
@@ -61,7 +61,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 4.<a id="4-ai-modelsmd"></a>
+### <a id="4-ai-modelsmd"></a>
 [AI Models.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Models.md)
 
 **Model Catalog & Guidance**
@@ -75,7 +75,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 5.<a id="5-ai-solutionsmd"></a>
+### <a id="5-ai-solutionsmd"></a>
 [AI Solutions.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md)
 
 **AI Solutions Catalog & Best Practices**
@@ -91,7 +91,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 6.<a id="6-mcpmd"></a>
+### <a id="6-mcpmd"></a>
 [MCP.md](https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md)
 
 **Model Context Protocol (MCP) Overview**
@@ -109,7 +109,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 7.<a id="7-technical-competenciesmd"></a>
+### <a id="7-technical-competenciesmd"></a>
 [AI, Data & Software Engineering Skills](https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md)
 
 **AI Engineering Talent**
