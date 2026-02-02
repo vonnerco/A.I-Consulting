@@ -1,17 +1,34 @@
-## Table of Contents
+## 📑 Table of Contents
 
-* [Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)
-* [What’s New Since 2025](#-what’s-new-since-2025)
+Use the links below to navigate directly to the section you need.
 
-  * [Frontier Proprietary Models](#-frontier-proprietary-models)
-  * [Open-Source & Emerging Models](#-open-source--emerging-models)
-  * [Ongoing Developments](#-ongoing-developments)
-* [Quick Recommendation (2026)](#-quick-recommendation-2026)
+* **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
+  *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
-  * [Coding & Development](#-coding--development)
-  * [General Purpose / Reasoning](#-general-purpose--reasoning)
-  * [Fast & Cheap](#-fast--cheap)
-* [Notes](#-notes)
+* **[What’s New Since 2025](#-what’s-new-since-2025)**
+  *Discover the newest models and advancements in AI.*
+
+  * [🌟 Frontier Proprietary Models](#-frontier-proprietary-models)
+    *Top-tier commercial AI releases with enhanced capabilities.*
+  * [🔓 Open-Source & Emerging Models](#-open-source--emerging-models)
+    *Free and community-driven models competing with proprietary alternatives.*
+  * [🔄 Ongoing Developments](#-ongoing-developments)
+    *Upcoming AI models and anticipated releases in 2026.*
+
+* **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
+  *Guidance on choosing the best AI model based on use-case.*
+
+  * [🛠 Coding & Development](#-coding--development)
+    *Models optimized for software engineering and programming tasks.*
+  * [📚 General Purpose / Reasoning](#-general-purpose--reasoning)
+    *Balanced AI for reasoning, analysis, and general productivity.*
+  * [🏎️ Fast & Cheap](#-fast--cheap)
+    *Lightweight or cost-effective options for rapid responses.*
+
+* **[Notes](#-notes)**
+  *Important considerations on pricing, context, and infrastructure for self-hosted models.*
+
+---
 
 ## 🤖 Latest AI Model Comparison (2026)
 
