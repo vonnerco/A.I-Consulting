@@ -62,7 +62,7 @@ Healthcare AI Platform:
 ## ⚠️ Key Technical Achievements
 
 ### **🔥 Challenge 1: Data Schema Heterogeneity**
-**🚨 Problem**: 23 EMR systems with incompatible formats  
+**🚨 Problem**: 25 EMR systems with incompatible formats  
 **💡 Solution**: Adaptive schema mapping using **LangChain** + LLMs  
 **✅ Result**: **94% automated reconciliation**, manual mapping cut from 72h → 8m
 
