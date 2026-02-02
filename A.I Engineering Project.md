@@ -1,7 +1,7 @@
 # 🏥 Solution: AI Healthcare Data Unification Platform
 
 ## 🎯 Overview
-I led the design & development an enterprise-scale AI workflow for a Cox acquired Healthcare SaaS startup. This Healthcare Company served over **2.8M patients** across the U.S. They had over **450+ providers** within their network & over **847TB** of fragmented patient data from **25 EMR systems**. I designed and developed an AI Intelligence platform that seamlessly integrated with EMR systems, leveraging LangChain to orchestrate advanced reasoning over clinical data. The platform processes over 94% patient profiles using a RAG-architected vector database, enabling efficient retrieval, intelligent summarization, and actionable insights for healthcare providers.
+I led the design & development an enterprise-scale AI system for a Cox acquired Healthcare SaaS startup. This Healthcare Company served over **2.8M patients** across the U.S. They had over **450+ providers** within their network & over **847TB** of fragmented patient data from **25 EMR systems**. I designed and developed an AI Intelligence platform that seamlessly integrated with EMR systems, leveraging LangChain to orchestrate advanced reasoning over clinical data. The platform processes over 94% patient profiles using a RAG-architected vector database, enabling efficient retrieval, intelligent summarization, and actionable insights for healthcare providers.
 
 ---
 ## 📈 Business Impact
