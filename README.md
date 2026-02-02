@@ -14,7 +14,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 | [AI Solutions.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md) | [README](#2-ai-solutionsmd) |
 | [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md) | [README](#3-ai-engineeringmd) |
 | [AI Cloud Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md) | [README](#4-ai-cloud-engineeringmd) |
-| [AI MCP Engineering](https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md) | [README](#5-ai-mcp-engineering) |
+| [AI MCP Engineering](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20MCP%20Engineering.md) | [README](#5-ai-mcp-engineering) |
 | [AI, Data & Software Engineering Skills](https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md) | [README](#6-technical-competenciesmd) |
 | [AI Engineering Project.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md) | [README](#7-ai-engineering-projectmd) |
 
@@ -84,7 +84,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 ---
 
 ### <a id="5-ai-mcp-engineering"></a>
-[AI MCP Engineering](https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md)
+[AI MCP Engineering](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20MCP%20Engineering.md)
 
 **AI MCP Engineering Overview**
 - Engineering framework for managing context in advanced AI systems
