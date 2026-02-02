@@ -1,3 +1,18 @@
+## Table of Contents
+
+* [Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)
+* [What’s New Since 2025](#-what’s-new-since-2025)
+
+  * [Frontier Proprietary Models](#-frontier-proprietary-models)
+  * [Open-Source & Emerging Models](#-open-source--emerging-models)
+  * [Ongoing Developments](#-ongoing-developments)
+* [Quick Recommendation (2026)](#-quick-recommendation-2026)
+
+  * [Coding & Development](#-coding--development)
+  * [General Purpose / Reasoning](#-general-purpose--reasoning)
+  * [Fast & Cheap](#-fast--cheap)
+* [Notes](#-notes)
+
 ## 🤖 Latest AI Model Comparison (2026)
 
 | Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
