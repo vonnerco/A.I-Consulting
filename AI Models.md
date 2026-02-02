@@ -2,10 +2,10 @@
 
 Use the links below to navigate directly to the section you need.
 
-* **Latest AI Model Comparison (2026)**
+* **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
   *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
-* **What’s New Since 2025**
+* **[What’s New Since 2025](#-what’s-new-since-2025)**
   *Discover the newest models and advancements in AI.*
 
   * 🌟 Frontier Proprietary Models
@@ -15,7 +15,7 @@ Use the links below to navigate directly to the section you need.
   * 🔄 Ongoing Developments
     *Upcoming AI models and anticipated releases in 2026.*
 
-* **Quick Recommendation (2026)**
+* **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on use-case.*
 
   * 🛠 Coding & Development
@@ -24,9 +24,6 @@ Use the links below to navigate directly to the section you need.
     *Balanced AI for reasoning, analysis, and general productivity.*
   * 🏎️ Fast & Cheap
     *Lightweight or cost-effective options for rapid responses.*
-
-* **Notes**
-  *Important considerations on pricing, context, and infrastructure for self-hosted models.*
 
 ---
 
