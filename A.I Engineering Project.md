@@ -62,29 +62,30 @@ Healthcare AI Platform:
 ## ⚠️ Key Technical Achievements
 
 ### **🔥 Challenge 1: Data Schema Heterogeneity**
-**🚨 PROBLEM**: 23 EMR systems with incompatible formats  
-**💡 SOLUTION**: Adaptive schema mapping using **LangChain** + LLMs  
-**✅ RESULT**: **94% automated reconciliation**, manual mapping cut from 72h → 8m
+**🚨 Problem**: 23 EMR systems with incompatible formats  
+**💡 Solution**: Adaptive schema mapping using **LangChain** + LLMs  
+**✅ Result**: **94% automated reconciliation**, manual mapping cut from 72h → 8m
 
 ### **🔥 Challenge 2: Real-time Processing at Scale**
-**🚨 PROBLEM**: 2.3M daily EMR interactions needing **sub-second AI responses**  
-**💡 SOLUTION**: Distributed processing via **AWS SageMaker** + edge computing, orchestrated with **LangChain**  
-**✅ RESULT**: **<100ms response**, **99.97% uptime**
+**🚨 Problem**: 2.3M daily EMR interactions needing **sub-second AI responses**  
+**💡 Solution**: Distributed processing via **AWS SageMaker** + edge computing, orchestrated with **LangChain**  
+**✅ Result**: **<100ms response**, **99.97% uptime**
 
 ### **🔥 Challenge 3: HIPAA Compliance**
-**🚨 PROBLEM**: AI insights across EMRs without violating privacy  
-**💡 SOLUTION**: Differential privacy, federated learning, automated PII detection  
-**✅ RESULT**: **Full HIPAA compliance**, zero violations across 847 orgs
+**🚨 Problem**: AI insights across EMRs without violating privacy  
+**💡 Solution**: Differential privacy, federated learning, automated PII detection  
+**✅ Result**: **Full HIPAA compliance**, zero violations across 847 organizations
 
 ### **🔥 Challenge 4: Accuracy vs Speed**
-**🚨 PROBLEM**: Meeting 95%+ clinical accuracy in real-time AI inference  
-**💡 SOLUTION**: Multi-stage validation + human-in-the-loop, orchestrated via **LangChain**  
-**✅ RESULT**: **91.7% accuracy**, compliance audit time down **83%**
+**🚨 Problem**: Meeting 95%+ clinical accuracy in real-time AI inference  
+**💡 Solution**: Multi-stage validation + human-in-the-loop, orchestrated via **LangChain**  
+**✅ Result**: **91.7% accuracy**, compliance audit time down **83%**
 
 ### **🔥 Challenge 5: Incomplete Patient Profiles**
-**🚨 PROBLEM**: Fragmented EMR data, incomplete patient profiles  
-**💡 SOLUTION**: AI platform using **LangChain** + **RAG vector DB** to infer missing data  
-**✅ RESULT**: **94% complete patient profiles**, manual reconciliation reduced **90%**
+**🚨 Problem**: Fragmented EMR data, incomplete patient profiles  
+**💡 Solution**: AI platform using **LangChain** + **RAG vector database** to infer missing data  
+**✅ Result**: **94% complete patient profiles**, manual reconciliation reduced **90%**
+
 
 
 ---
