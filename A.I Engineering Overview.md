@@ -10,6 +10,26 @@ This framework organizes AI engineering into phases, technical stack, governance
 
 ---
 
+## 🛠️ Newest AI Models (2026)
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Newest AI Models</summary>
+
+* GPT-5.2 → Latest flagship (Dec 2025), enhanced reasoning, multimodal
+* GPT-4o → Multimodal, fast processing, large context
+* GPT-4.1 → Advanced reasoning and code generation
+* Claude Opus 4.5 → Strong coding, reasoning, balanced cost
+* Claude Sonnet 4.5 → Cost-effective coding & reasoning
+* Gemini 3 Pro → Massive context, multimodal, top benchmarks
+* Gemini 3 Flash → Fast, low-cost, efficient responses
+* DeepSeek-V3.2 → Open-source, competitive with proprietary models
+* Llama 4 Family → Large context, MoE efficiency, open-source
+* Nano Banana Pro → Lightweight, fast community variants
+
+</details>
+
+---
+
 ## 📋 AI Implementation Summary
 
 <details>
@@ -58,8 +78,6 @@ This framework organizes AI engineering into phases, technical stack, governance
 </details>
 
 ---
-
-
 
 ## 1️⃣ Pre-Implementation Requirements
 
@@ -128,10 +146,6 @@ Bundle Optimization:
 ```
 
 </details>
-
----
-
-
 
 ---
 
