@@ -19,7 +19,7 @@ I led the design & development an enterprise-scale AI system for a Cox acquired 
 ## 🛠️ Key Technologies
 
 ## 🏛️ Technical Architecture 
-```
+
 ### **🔧 Core Infrastructure**
 ```
 Healthcare AI Platform:
