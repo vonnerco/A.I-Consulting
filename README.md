@@ -3,7 +3,7 @@
 Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 500 companies.
 
 ## 📋 Table of Contents
-1. <a href="#1-ai-engineeringmd" target="_blank">AI Engineering.md</a>
+1. <a href="#1-ai-engineeringmd" target="_blank">AI Engineering</a>
 2. <a href="#2-ai-cloud-engineeringmd" target="_blank">AI Cloud Engineering.md</a>
 3. <a href="#3-ai-engineering-projectmd" target="_blank">AI Engineering Project.md</a>
 4. <a href="#4-ai-modelsmd" target="_blank">AI Models.md</a>
@@ -15,7 +15,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 📋 Repository Overview
 
-### 1. <a id="1-ai-engineeringmd"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md" target="_blank">AI Engineering.md</a>
+### 1. <a id="1-ai-engineering"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering" target="_blank">AI Engineering</a>
 **Enterprise AI Strategy & Implementation**
 - Fortune 500 transformation case studies with proven ROI metrics
 - Technical stack: OpenAI GPT‑4o, Claude 3.5, LangChain, multi‑cloud architecture
