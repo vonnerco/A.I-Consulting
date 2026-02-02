@@ -90,7 +90,7 @@ AI Safety Measures:
 
 ---
 
-## 🎛️ Use-Cases
+## 🎛️ Common AI Solutions 
 
 | **Use Case** | **Description** | **Impact** | **Complexity** |
 |:---:|:---:|:---:|:---:|
