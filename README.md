@@ -4,7 +4,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 📋 Repository Overview
 
-### 1. [A.I Consulting.md](./A.I%20Consulting.md)
+### 1. [A.I Engineering.md](./A.I%20Engineering.md)
 **Enterprise AI Strategy & Implementation**
 - Fortune 500 transformation case studies with proven ROI metrics
 - Technical stack: OpenAI GPT-4o, Claude 3.5, LangChain, multi-cloud architecture
