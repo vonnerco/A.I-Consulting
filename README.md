@@ -22,7 +22,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 📋 Repository Overview
 
-### 1.<a id="1-ai-engineeringmd"></a>
+### <a id="1-ai-engineeringmd"></a>
 [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md)
 
 **Enterprise AI Strategy & Implementation**
