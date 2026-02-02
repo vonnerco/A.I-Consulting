@@ -9,13 +9,7 @@ Use the links below to navigate directly to the section you need.
   *Guidance on choosing the best AI model based on your specific business use-case.*
 
 * **[Prompt Engineering vs Fine-Tuning](#-prompt-engineering-vs-fine-tuning)**
-
-* **[Deployment Strategies](#-deployment-strategies)**
-
-* **[Monitoring Signals](#-monitoring-signals)**
-
-* **[Evaluation Checklist](#-evaluation-checklist)**
-
+  *Prompt engineering is fast & cost-effective,while fine-tuning is resource-intensive.*
 ---
 
 ## 🤖 Latest AI Model Comparison (2026)
