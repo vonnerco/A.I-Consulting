@@ -1,106 +1,63 @@
-# AI Models Comparison Table (2025)
+## 🤖 Latest AI Model Comparison (2026)
 
-## 🤖 **Popular AI Models for Development**
-
-| Model Name | Company | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions (Low Token) | Key Features |
-|------------|---------|----------------|-----------------------------------|-----------------|---------------------------------------|--------------|
-| **Gemini 1.5 Flash** | Google | 1M tokens | $0.075 / $0.30 | ⚠️ Good | ✅ Excellent | Ultra-fast and cheap |
-| **Claude 3 Haiku** | Anthropic | 200K tokens | $0.25 / $1.25 | ⚠️ Good | ✅ Excellent | Fast and efficient |
-| **GPT-3.5 Turbo** | OpenAI | 16K tokens | $0.50 / $1.50 | ⚠️ Good | ✅ Very Good | Cost-effective option |
-| **GPT-4o** | OpenAI | 128K tokens | $2.50 / $10.00 | ✅ Excellent | ❌ Expensive | Multimodal capabilities |
-| **Claude 3.5 Sonnet** | Anthropic | 200K tokens | $3.00 / $15.00 | ✅ Excellent | ❌ Moderate Cost | Excellent for coding |
-| **Gemini 1.5 Pro** | Google | 1M tokens | $3.50 / $10.50 | ✅ Excellent | ❌ Moderate Cost | Massive context window |
-| **GPT-4** | OpenAI | 8K tokens | $30.00 / $60.00 | ✅ Excellent | ❌ Very Expensive | Classic GPT-4 |
-
-
-## Comprehensive Feature Comparison by Company
-
-| Company | Model Name | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions (Low Token) | Key Strengths |
-|---------|------------|----------------|-----------------------------------|-----------------|---------------------------------------|---------------|
-| **Anthropic** | Claude 3.5 Haiku | 200K tokens | $0.25 / $1.25 | ⚠️ Good | ✅ Excellent | Speed, efficiency |
-| **Anthropic** | Claude 3.5 Sonnet | 200K tokens | $3.00 / $15.00 | ✅ Excellent | ❌ Moderate Cost | Balanced performance/cost |
-| **Anthropic** | Claude 4 Opus | 200K tokens | $15.00 / $75.00 | ✅ Excellent | ❌ Very Expensive | Superior reasoning, safety-focused |
-| **Cohere** | Command R+ | 128K tokens | $3.00 / $15.00 | ⚠️ Good | ✅ Good | Enterprise-focused |
-| **DeepSeek** | DeepSeek R1 | 128K tokens | $0.14 / $0.28 | ✅ Excellent | ✅ Excellent | Open-source alternative, cost-effective |
-| **DeepSeek** | DeepSeek Coder V2.5 | 128K tokens | $0.14 / $0.28 | ✅ Excellent | ✅ Very Good | Specialized for coding |
-| **Google** | Gemini 1.5 Flash | 1M tokens | $0.075 / $0.30 | ⚠️ Good | ✅ Excellent | Ultra-fast, very cheap |
-| **Google** | Gemini 1.5 Pro | 1M tokens | $3.50 / $10.50 | ✅ Excellent | ❌ Moderate Cost | Large context window |
-| **Google** | Gemini 2.5 Pro | 1M tokens | $7.00 / $21.00 | ✅ Excellent | ❌ Expensive | Massive context, multimodal |
-| **Meta** | Llama 3.1 (405B) | 128K tokens | Free (self-hosted) | ✅ Very Good | ✅ Excellent | Open-source, customizable |
-| **Meta** | Llama 3.1 (70B) | 128K tokens | Free (self-hosted) | ✅ Good | ✅ Excellent | Lighter, faster inference |
-| **Mistral AI** | Mistral Small | 32K tokens | $0.20 / $0.60 | ⚠️ Good | ✅ Very Good | Compact, efficient |
-| **Mistral AI** | Mistral Large 2 | 128K tokens | $2.00 / $6.00 | ✅ Very Good | ❌ Moderate Cost | European alternative |
-| **OpenAI** | GPT-4o mini | 128K tokens | $0.15 / $0.60 | ⚠️ Good | ✅ Excellent | Cost-effective, quick responses |
-| **OpenAI** | GPT-3.5 Turbo | 16K tokens | $0.50 / $1.50 | ⚠️ Good | ✅ Very Good | Budget-friendly, reliable |
-| **OpenAI** | GPT-4.1 | 128K tokens | $2.00 / $6.00 | ✅ Excellent | ❌ Expensive | Advanced reasoning, code generation |
-| **OpenAI** | GPT-4o | 128K tokens | $2.50 / $10.00 | ✅ Excellent | ❌ Expensive | Multimodal, fast processing |
-| **Perplexity** | Sonar Large | 127K tokens | $1.00 / $1.00 | ⚠️ Good | ✅ Excellent | Real-time web search integration |
-| **xAI** | Grok-2 | 128K tokens | $2.00 / $10.00 | ✅ Very Good | ✅ Good | Real-time X integration, uncensored responses |
-| **AI21** | Jurassic-2 Ultra | 8K tokens | $15.00 / $15.00 | ⚠️ Good | ✅ Very Good | Grammatical correction, text segmentation |
-| **Inflection AI** | Pi | 32K tokens | $0.40 / $0.40 | ⚠️ Good | ✅ Excellent | Personal AI assistant, well-being focused |
-
-## Recommendations by Use Case
-
-### 🎯 **Development Recommendations**
-
-#### **For Daily Coding Tasks:**
-1. **Claude 3.5 Sonnet** - Best balance for complex coding tasks
-2. **GPT-4o** - When you need the absolute best reasoning
-3. **Gemini 1.5 Flash** - Fast and cost-effective
-
-#### **For Cost-Conscious Development:**
-1. **Gemini 1.5 Flash** - Extremely cheap for paid usage
-2. **Claude 3 Haiku** - Fast and affordable
-3. **GPT-3.5 Turbo** - Budget-friendly option
-
-#### **For Large Codebases:**
-1. **Gemini 1.5 Pro** - 1M token context for massive files
-2. **Claude 3.5 Sonnet** - 200K token context, excellent code understanding
-3. **GPT-4o** - Strong reasoning with good context size
-
-### 💻 **Best for Coding Tasks**
-1. **Claude 4 Opus** - Superior code reasoning and debugging (if budget allows)
-2. **GPT-4.1** - Excellent all-around coding capabilities
-3. **DeepSeek R1** - Best value for coding tasks
-4. **DeepSeek Coder V2.5** - Specialized coding model
-
-### 💬 **Best for General Questions (Low Token Usage)**
-1. **Gemini 1.5 Flash** - Ultra-cheap, very fast responses
-2. **GPT-4o mini** - Great balance of capability and cost
-3. **Claude 3.5 Haiku** - Fast, efficient for simple queries
-4. **DeepSeek R1** - Excellent performance at low cost
-5. **Llama 3.1** - Free option for self-hosting
-
-### 📊 **Best for Large Document Analysis**
-1. **Gemini 1.5 Pro/2.5 Pro** - 1M token context window
-2. **Claude 3.5 Sonnet/Opus** - 200K token context
-3. **GPT-4.1** - 128K token context
-
-### 💰 **Most Cost-Effective**
-1. **Llama 3.1** - Free (self-hosted)
-2. **Gemini 1.5 Flash** - $0.075/$0.30 per 1M tokens
-3. **DeepSeek R1** - $0.14/$0.28 per 1M tokens
-4. **GPT-4o mini** - $0.15/$0.60 per 1M tokens
-
-## Key Considerations
-
-- **Token Costs**: Prices can change frequently; always check current pricing
-- **Context Window**: Larger windows allow processing of longer documents
-- **Self-Hosting**: Open-source models (Llama, DeepSeek) can be free but require infrastructure
-- **Specialized Tasks**: Some models excel in specific domains (coding, reasoning, etc.)
-- **Real-time Data**: Only Perplexity Sonar provides real-time web search capabilities
-
-*Last updated: September 2025*
-
-## 🎯 Next Steps
-
-## 📫 Connect & Collaborate
-
-[![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
+| Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
+| ----------------- | -------------------------------------- | -------------- | --------------------------------- | --------------- | -------------------------- | ---------------------------------------------- |
+| GPT-5.2           | OpenAI                                 | ~400K+         | Proprietary tier                  | ✅ Excellent     | ✅ Excellent                | Top reasoning & multimodal generation          |
+| Gemini 3 Pro      | Google DeepMind                        | 1M tokens      | Mid-to-high                       | ✅ Excellent     | ✅ Excellent                | Massive context + multimodal + video reasoning |
+| Gemini 3 Flash    | Google DeepMind                        | ~128K          | Low-cost variant                  | ⚠️ Good         | ✅ Very Good                | Fast & cost-effective                          |
+| Claude Opus 4.5   | Anthropic                              | ~200K tokens   | Moderate-high                     | ✅ Excellent     | ❌ Moderate                 | Strong coding & reasoning                      |
+| Claude Sonnet 4.5 | Anthropic                              | ~200K tokens   | Moderate                          | ✅ Very Good     | ✅ Very Good                | Balanced performance/cost                      |
+| Claude Haiku 4.5  | Anthropic                              | ~200K tokens   | Budget-friendly                   | ⚠️ Good         | ✅ Good                     | Lightweight, efficient variant                 |
+| DeepSeek-V3.2     | DeepSeek                               | ~128K tokens   | Very low-cost                     | ✅ Excellent     | ✅ Very Good                | Strong open-source performer                   |
+| Llama 4 Maverick  | Meta                                   | 128K           | Free (self-hosted)                | ✅ Good          | ✅ Very Good                | Open-source, customizable                      |
+| Nano Banana Pro   | Google community / Gemini flash family | Varies         | N/A                               | ⚠️ Good         | ⚠️ Good                    | Lightweight open variant                       |
+| xAI Grok 4.1 Fast | xAI                                    | ~128K tokens   | Lower cost                        | ⚠️ Good         | Good                       | Real-time X data integration                   |
 
 ---
 
-*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
+## 🧠 What’s New Since 2025
 
+### 🌟 Frontier Proprietary Models
+
+* GPT-5.2 (OpenAI) – Latest flagship released Dec 2025 with enhanced reasoning and multimodal capabilities, successor to GPT-5.1.
+* Google Gemini 3 Series – Released Nov-Dec 2025 including Gemini 3 Pro and Gemini 3 Flash; Gemini 3 Pro leads benchmarks with massive context and multimodal strength.
+* Claude Opus 4.5 & Sonnet 4.5 (Anthropic) – Latest 4.5 series offering strong coding, reasoning, and balanced performance at varied price tiers.
+
+### 🔓 Open-Source & Emerging Models
+
+* DeepSeek-V3.2 – Open-source family now delivers capabilities competitive with proprietary models at a fraction of the cost.
+* Llama 4 Family – Meta’s advanced open-source models with huge context capacities and MoE efficiency.
+* Nano Banana Pro & Variants – Community / “flash” variants optimized for fast, lightweight tasks.
+
+### 🔄 Ongoing Developments
+
+* Many community/speculated models (e.g., GPT-5.5, Grok 5, Claude 5, Gemini 4) are anticipated in 2026 but not widely released at the time of this update.
+
+---
+
+## 🧩 Quick Recommendation (2026)
+
+### 🛠 Coding & Development
+
+* Top: Claude Opus 4.5, GPT-5.2
+* Best Cost-Performance: DeepSeek-V3.2, Claude Sonnet 4.5
+* Massive Projects: Gemini 3 Pro
+
+### 📚 General Purpose / Reasoning
+
+* Top: GPT-5.2, Gemini 3 Pro
+* Balanced: Claude Sonnet 4.5, DeepSeek-V3.2
+* Budget/Free: Llama 4 variants
+
+### 🏎️ Fast & Cheap
+
+* Best: Gemini 3 Flash (low cost), DeepSeek-V3.2
+* Lightweight: Claude Haiku 4.5
+
+---
+
+### Notes
+
+* Pricing is indicative based on typical API tiers and market trends (varies by plan/region).
+* Context window estimates are based on public specs and benchmarks.
+* Self-hosted/open-source options (like Llama or DeepSeek) do not charge token fees but require infrastructure.
