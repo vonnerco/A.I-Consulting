@@ -1,4 +1,4 @@
-# 🚀 AI Engineering Overview
+# AI Engineering Overview
 
 Transform corporate enterprises through next-generation AI/ML engineering, multi-cloud orchestration, and agentic workflows that deliver measurable ROI while maintaining enterprise-grade compliance and governance.
 
