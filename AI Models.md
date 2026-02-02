@@ -1,13 +1,21 @@
 ## 📑 Table of Contents
+
 Use the links below to navigate directly to the section you need.
 
-- **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**  
-  _Explore the full comparison table with context, cost, and strengths of all major AI models._
+* **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
+  *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
-- **[Quick Recommendation (2026)](#-quick-recommendation-2026)**  
-  _Guidance on choosing the best AI model based on your specific business use-case._  
+* **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
+  *Guidance on choosing the best AI model based on your specific business use-case.*
+
+* **Additional Considerations**
+  *Prompt engineering vs. fine-tuning with cost, latency, and accuracy tradeoffs*
+  *Deployment strategies: containerized inference, batching, quantization, autoscaling*
+  *Monitoring signals: latency, throughput, drift, error & hallucination rates*
+  *Evaluation checklist: benchmarks, HITL validation, safety guardrails*
 
 ---
+
 ## 🤖 Latest AI Model Comparison (2026)
 
 | Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
