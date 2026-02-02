@@ -18,7 +18,8 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Cost reduction strategies: 30-50% savings through multi-cloud arbitrage
 - Security & governance framework with automated compliance monitoring
 
-### 3. [A.I Engineering Project.md](./A.I%20Project.md)
+### 3. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md" target="_blank">A.I Engineering Project.md</a>
+
 **Healthcare Data Unification Case Study**
 - Real implementation: 2.8M patients, 450+ providers, 847TB data processing
 - Technical challenges solved: Schema heterogeneity, real-time scale, HIPAA compliance
