@@ -5,13 +5,13 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 <a id="top"></a>
 
 ## 📋 Table of Contents
-1. <a href="#1-ai-engineeringmd">README – AI Engineering.md</a>
-2. <a href="#2-ai-cloud-engineeringmd">README – AI Cloud Engineering.md</a>
-3. <a href="#3-ai-engineering-projectmd">README – AI Engineering Project.md</a>
-4. <a href="#4-ai-modelsmd">README – AI Models.md</a>
-5. <a href="#5-ai-solutionsmd">README – AI Solutions.md</a>
-6. <a href="#6-mcpmd">README – MCP.md</a>
-7. <a href="#7-technical-competenciesmd">README – AI, Data & Software Engineering Skills</a>
+1. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md" target="_blank" rel="noopener noreferrer">AI Engineering.md</a> | <a href="#1-ai-engineeringmd">README</a>
+2. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md" target="_blank" rel="noopener noreferrer">AI Cloud Engineering.md</a> | <a href="#2-ai-cloud-engineeringmd">README</a>
+3. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md" target="_blank" rel="noopener noreferrer">AI Engineering Project.md</a> | <a href="#3-ai-engineering-projectmd">README</a>
+4. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Models.md" target="_blank" rel="noopener noreferrer">AI Models.md</a> | <a href="#4-ai-modelsmd">README</a>
+5. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md" target="_blank" rel="noopener noreferrer">AI Solutions.md</a> | <a href="#5-ai-solutionsmd">README</a>
+6. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md" target="_blank" rel="noopener noreferrer">MCP.md</a> | <a href="#6-mcpmd">README</a>
+7. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md" target="_blank" rel="noopener noreferrer">AI, Data & Software Engineering Skills</a> | <a href="#7-technical-competenciesmd">README</a>
 
 ---
 
@@ -92,23 +92,3 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Usage: suggested filters, sample queries, and recommended hiring workflow (screen → technical check → shortlist)
 
 <a href="#top">Back to Top</a>
-
----
-
-## 🎯 Next Steps
-
-## 📫 Connect & Collaborate
-
-<a href="https://www.vonnerco.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Vonnerco-AI%20Engineering-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" alt="Vonnerco">
-</a>
-<a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/vonnerco/A.I-Engineering" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
----
-
-*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering Solutions across AWS, Azure & GCP Cloud Architectures.*
