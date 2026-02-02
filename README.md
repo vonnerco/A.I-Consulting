@@ -7,7 +7,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 2. <a href="#2-ai-cloud-engineeringmd" target="_blank">AI Cloud Engineering.md</a>
 3. <a href="#4-ai-modelsmd" target="_blank">AI Models.md</a>
 4. <a href="#5-ai-solutionsmd" target="_blank">AI Solutions.md</a>
-5. <a href="#6-mcpmd" target="_blank">MCP.md</a>
+5. <a href="#6-mcpmd" target="_blank">MCP Engineering.md</a>
 6. <a href="#7-technical-competenciesmd" target="_blank">AI, Data & Software Engineering Skills</a>
 7. <a href="#3-ai-engineering-projectmd" target="_blank">AI Engineering Project.md</a>
 
