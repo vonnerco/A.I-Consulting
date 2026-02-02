@@ -11,14 +11,14 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 - Industry impact: Healthcare ($31M savings), Finance (78% manual reduction), Smart Cities (31% commute reduction)
 - Modern UI/UX technology stack with React 18+, advanced CSS, performance optimization
 
-### 2. [A.I Cloud Consulting.md](./A.I%20Cloud%20Consulting.md)
+### 2. [A.I Cloud Engineering.md](./A.I%20Cloud%20Engineering.md)
 **Multi-Cloud AI Architecture Guide**
 - Vendor-agnostic infrastructure across AWS, Azure, GCP with Databricks orchestration
 - Service optimization matrix for best-of-breed selection by workload type
 - Cost reduction strategies: 30-50% savings through multi-cloud arbitrage
 - Security & governance framework with automated compliance monitoring
 
-### 3. [A.I Project.md](./A.I%20Project.md)
+### 3. [A.I Engineering Project.md](./A.I%20Engineering Project.md)
 **Healthcare Data Unification Case Study**
 - Real implementation: 2.8M patients, 450+ providers, 847TB data processing
 - Technical challenges solved: Schema heterogeneity, real-time scale, HIPAA compliance
