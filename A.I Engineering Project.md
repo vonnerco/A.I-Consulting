@@ -18,8 +18,9 @@ I led the design & development an enterprise-scale AI system for a Cox acquired 
 # Emgineering Software & Tools used for this Project:
 ## 🛠️ Key Technologies
 
-## 🏛️ Technical Architecture & **🔧 Core Infrastructure**
+## 🏛️ Technical Architecture 
 ```
+## **🔧 Core Infrastructure**
 Healthcare AI Platform:
 ├── 🏗️ AWS Lake Formation + S3 → 847TB structured/unstructured healthcare data
 ├── 🤖 Amazon Bedrock (Claude 3.5) → Medical document analysis, clinical note summarization
