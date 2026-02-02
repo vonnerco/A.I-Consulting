@@ -8,11 +8,13 @@ Use the links below to navigate directly to the section you need.
 * **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on your specific business use-case.*
 
-* **Additional Considerations**
-  *Prompt engineering vs. fine-tuning with cost, latency, and accuracy tradeoffs*
-  *Deployment strategies: containerized inference, batching, quantization, autoscaling*
-  *Monitoring signals: latency, throughput, drift, error & hallucination rates*
-  *Evaluation checklist: benchmarks, HITL validation, safety guardrails*
+* **[Prompt Engineering vs Fine-Tuning](#-prompt-engineering-vs-fine-tuning)**
+
+* **[Deployment Strategies](#-deployment-strategies)**
+
+* **[Monitoring Signals](#-monitoring-signals)**
+
+* **[Evaluation Checklist](#-evaluation-checklist)**
 
 ---
 
@@ -71,6 +73,39 @@ Use the links below to navigate directly to the section you need.
 
 * Best: Gemini 3 Flash (low cost), DeepSeek-V3.2
 * Lightweight: Claude Haiku 4.5
+
+---
+
+## 📝 Prompt Engineering vs Fine-Tuning
+
+* **Prompt Engineering** – Adjust model instructions and context for optimized outputs without modifying model weights.
+* **Fine-Tuning** – Retrain model weights on custom data for specialized tasks.
+* **Tradeoffs** – Prompt engineering is faster and cheaper with lower latency; fine-tuning offers higher accuracy for domain-specific applications but with higher cost and longer deployment time.
+
+---
+
+## ⚙️ Deployment Strategies
+
+* **Containerized Inference** – Deploy models in Docker/Kubernetes for portability and scalability.
+* **Batching** – Group inference requests to optimize GPU/CPU usage.
+* **Quantization** – Reduce model precision for lower memory footprint and faster inference.
+* **Autoscaling** – Dynamically scale resources based on traffic demand.
+
+---
+
+## 📊 Monitoring Signals
+
+* **Latency & Throughput** – Track response time and processing capacity.
+* **Drift Detection** – Monitor data and model drift over time.
+* **Error & Hallucination Rates** – Log incorrect outputs and anomalies for model reliability.
+
+---
+
+## ✅ Evaluation Checklist
+
+* **Benchmarks** – Measure model performance against standard datasets.
+* **HITL Validation** – Incorporate human-in-the-loop to verify critical outputs.
+* **Safety Guardrails** – Implement checks to prevent unsafe or biased outputs.
 
 ---
 
