@@ -1,18 +1,37 @@
 ## 📑 Table of Contents
 
-Use the links below to navigate directly to the section you need.
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Table of Contents</summary>
 
 * **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
   *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
+* **[New Since 2025](#-new-since-2025)**
+  *Overview of frontier proprietary, open-source, and emerging models.*
+
 * **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on your specific business use-case.*
 
+* **[Deployment Strategies](#-deployment-strategies)**
+  *Containerized inference, batching, quantization, autoscaling.*
+
+* **[Monitoring Signals](#-monitoring-signals)**
+  *Key metrics like latency, throughput, drift, and error rates.*
+
+* **[Evaluation Checklist](#-evaluation-checklist)**
+  *Benchmarks, human-in-the-loop validation, and safety guardrails.*
+
 * **[Prompt Engineering vs Fine-Tuning](#-prompt-engineering-vs-fine-tuning)**
-  *Prompt engineering is fast & cost-effective, while fine-tuning is resource-intensive.*
+  *Tradeoffs and best practices for multi-cloud platforms (MCPs).*
+
+</details>
+
 ---
 
 ## 🤖 Latest AI Model Comparison (2026)
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Latest AI Model Comparison</summary>
 
 | Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
 | ----------------- | -------------------------------------- | -------------- | --------------------------------- | --------------- | -------------------------- | ---------------------------------------------- |
@@ -27,9 +46,14 @@ Use the links below to navigate directly to the section you need.
 | Nano Banana Pro   | Google community / Gemini flash family | Varies         | N/A                               | ⚠️ Good         | ⚠️ Good                    | Lightweight open variant                       |
 | xAI Grok 4.1 Fast | xAI                                    | ~128K tokens   | Lower cost                        | ⚠️ Good         | Good                       | Real-time X data integration                   |
 
+</details>
+
 ---
 
-## 🧠 What’s New Since 2025
+## 🧠 New Since 2025
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand New Since 2025</summary>
 
 ### 🌟 Frontier Proprietary Models
 
@@ -47,9 +71,14 @@ Use the links below to navigate directly to the section you need.
 
 * Many community/speculated models (e.g., GPT-5.5, Grok 5, Claude 5, Gemini 4) are anticipated in 2026 but not widely released at the time of this update.
 
+</details>
+
 ---
 
 ## 🧩 Quick Recommendation (2026)
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Quick Recommendation</summary>
 
 ### 🛠 Coding & Development
 
@@ -68,34 +97,51 @@ Use the links below to navigate directly to the section you need.
 * Best: Gemini 3 Flash (low cost), DeepSeek-V3.2
 * Lightweight: Claude Haiku 4.5
 
+</details>
+
 ---
 
 ## ⚙️ Deployment Strategies
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Deployment Strategies</summary>
 
 * **Containerized Inference** – Deploy models in Docker/Kubernetes for portability and scalability.
 * **Batching** – Group inference requests to optimize GPU/CPU usage.
 * **Quantization** – Reduce model precision for lower memory footprint and faster inference.
 * **Autoscaling** – Dynamically scale resources based on traffic demand.
 
+</details>
+
 ---
 
 ## 📊 Monitoring Signals
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Monitoring Signals</summary>
 
 * **Latency & Throughput** – Track response time and processing capacity.
 * **Drift Detection** – Monitor data and model drift over time.
 * **Error & Hallucination Rates** – Log incorrect outputs and anomalies for model reliability.
 
+</details>
+
 ---
 
 ## ✅ Evaluation Checklist
+
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Evaluation Checklist</summary>
 
 * **Benchmarks** – Measure model performance against standard datasets.
 * **HITL Validation** – Incorporate human-in-the-loop to verify critical outputs.
 * **Safety Guardrails** – Implement checks to prevent unsafe or biased outputs.
 
+</details>
+
 ---
 
-## 📝 Prompt Engineering vs Fine-Tuning 
+## 📝 Prompt Engineering vs Fine-Tuning
 
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Prompt Engineering vs Fine-Tuning</summary>
@@ -118,8 +164,7 @@ Use the links below to navigate directly to the section you need.
 
 </details>
 
-
---- 
+---
 
 ### Notes
 
