@@ -7,7 +7,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 2. <a href="#2-ai-cloud-engineeringmd" target="_blank">AI Cloud Engineering.md</a>
 3. <a href="#4-ai-modelsmd" target="_blank">AI Models.md</a>
 4. <a href="#5-ai-solutionsmd" target="_blank">AI Solutions.md</a>
-5. <a href="#6-mcpmd" target="_blank">MCP Engineering.md</a>
+5. <a href="#6-mcpmd" target="_blank">AI MCP Engineering.md</a>
 6. <a href="#7-technical-competenciesmd" target="_blank">AI, Data & Software Engineering Skills</a>
 7. <a href="#3-ai-engineering-projectmd" target="_blank">AI Engineering Project.md</a>
 
@@ -62,7 +62,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 5. <a id="6-mcpmd"></a><a href="./MCP.md" target="_blank">MCP Engineering.md</a>
+### 5. <a id="6-mcpmd"></a><a href="./MCP.md" target="_blank">AI MCP Engineering.md</a>
 **Model Context Protocol (MCP) Overview**
 - Purpose: a lightweight protocol for preserving multi-turn context, traceability, and safe state handoff between agents and services
 - Core components: session id, turn history, retrieval metadata, token-budget header, and retention policy
