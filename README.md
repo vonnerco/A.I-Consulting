@@ -8,7 +8,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ## 📋 Table of Contents
 
-| Section | README |
+|Section | README |
 |--------|--------|
 | [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md) | [README](#1-ai-engineeringmd) |
 | [AI Cloud Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md) | [README](#2-ai-cloud-engineeringmd) |
