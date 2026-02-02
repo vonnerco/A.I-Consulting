@@ -3,20 +3,20 @@
 Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 500 companies.
 
 ## 📋 Table of Contents
-1. <a href="#1-ai-engineeringmd" target="_blank">AI Engineering</a>
-2. <a href="#2-ai-cloud-engineeringmd" target="_blank">AI Cloud Engineering.md</a>
-3. <a href="#4-ai-modelsmd" target="_blank">AI Models.md</a>
-4. <a href="#5-ai-solutionsmd" target="_blank">AI Solutions.md</a>
-5. <a href="#6-mcpmd" target="_blank">AI MCP Engineering.md</a>
-6. <a href="#7-technical-competenciesmd" target="_blank">AI, Data & Software Engineering Skills</a>
-7. <a href="#3-ai-engineering-projectmd" target="_blank">AI Engineering Project.md</a>
+1. <a href="#1-ai-engineering" target="_blank">AI Engineering</a>
+2. <a href="#2-ai-cloud-engineering" target="_blank">AI Cloud Engineering.</a>
+3. <a href="#4-ai-models" target="_blank">AI Models.</a>
+4. <a href="#5-ai-solutions" target="_blank">AI Solutions.</a>
+5. <a href="#6-mcp" target="_blank">AI MCP Engineering.</a>
+6. <a href="#7-technical-competencies" target="_blank">AI, Data & Software Engineering Skills</a>
+7. <a href="#3-ai-engineering-project" target="_blank">AI Engineering Project.</a>
 
 
 ---
 
 ## 📋 Repository Overview
 
-### 1. <a id="1-ai-engineeringmd"></a><a href="./AI-Engineering.md" target="_blank">AI Engineering</a>
+### 1. <a id="1-ai-engineering"></a><a href="./AI-Engineering." target="_blank">AI Engineering</a>
 **Enterprise AI Strategy & Implementation**
 - Fortune 500 transformation case studies with proven ROI metrics
 - Technical stack: OpenAI GPT‑4o, Claude 3.5, LangChain, multi‑cloud architecture
@@ -27,7 +27,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 2. <a id="2-ai-cloud-engineeringmd"></a><a href="./AI-Cloud-Engineering.md" target="_blank">AI Cloud Engineering.md</a>
+### 2. <a id="2-ai-cloud-engineering"></a><a href="./AI-Cloud-Engineering." target="_blank">AI Cloud Engineering.</a>
 **Multi‑Cloud AI Architecture Guide**
 - Vendor-agnostic infrastructure across AWS, Azure, GCP with Databricks orchestration
 - Service optimization matrix for best-of-breed selection by workload type
@@ -38,7 +38,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 3. <a id="4-ai-modelsmd"></a><a href="./AI-Models.md" target="_blank">AI Models.md</a>
+### 3. <a id="4-ai-models"></a><a href="./AI-Models." target="_blank">AI Models.</a>
 **Model Catalog & Guidance**
 - Inventory of recommended models (LLMs, foundation models, specialty models) mapped to common tasks: extraction, summarization, RAG, codegen, and classification
 - Recommendations for prompt engineering vs. fine-tuning; cost/latency tradeoffs and when to use hosted vs. on-prem inference
@@ -49,7 +49,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 4. <a id="5-ai-solutionsmd"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Solutions.md" target="_blank">AI Solutions.md</a>
+### 4. <a id="5-ai-solutions"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Solutions." target="_blank">AI Solutions.</a>
 **AI Solutions Catalog & Best Practices**
 - Comprehensive set of ready-to-deploy AI solution patterns and use cases
 - Includes:
@@ -62,7 +62,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 5. <a id="6-mcpmd"></a><a href="./MCP.md" target="_blank">AI MCP Engineering.md</a>
+### 5. <a id="6-mcp"></a><a href="./MCP." target="_blank">AI MCP Engineering.</a>
 **Model Context Protocol (MCP) Overview**
 - Purpose: a lightweight protocol for preserving multi-turn context, traceability, and safe state handoff between agents and services
 - Core components: session id, turn history, retrieval metadata, token-budget header, and retention policy
@@ -73,7 +73,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 6. <a id="7-technical-competenciesmd"></a><a href="./Technical-Competencies.md" target="_blank">AI, Data & Software Engineering Skills</a>
+### 6. <a id="7-technical-competencies"></a><a href="./Technical-Competencies." target="_blank">AI, Data & Software Engineering Skills</a>
 **AI Engineering Talent**
 - Purpose: searchable directory of technical specialties, geographies, and high availability for rapid sourcing
 - Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
@@ -84,7 +84,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 7. <a id="3-ai-engineering-projectmd"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Engineering-Project.md" target="_blank">AI Engineering Project.md</a>
+### 7. <a id="3-ai-engineering-project"></a><a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Engineering-Project." target="_blank">AI Engineering Project.</a>
 **Healthcare Data Unification Case Study**
 - Real implementation: 2.8M patients, 450+ providers, 847TB data processing
 - Technical challenges solved: Schema heterogeneity, real-time scale, HIPAA compliance
