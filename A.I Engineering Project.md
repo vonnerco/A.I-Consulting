@@ -33,9 +33,9 @@ Healthcare AI Platform:
 ```
 LangChain Agent Framework:
 ├── 🩺 Medical Terminology Agent → ICD-10 coding and clinical validation
-├── 📊 Risk Stratification Agent → Predictive analytics and patient scoring
+├── 📊 Risk Agent → Predictive analytics and patient scoring
 ├── ⚖️ Compliance Agent → HIPAA validation and audit trail management
-└── 🔄 Workflow Engine → Autonomous decision-making with human oversight
+└── 🔄 Workflow Agent → Autonomous decision-making with human oversight
 ```
 
 ### **🔍 RAG Implementation**
