@@ -3,13 +3,14 @@
 Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 500 companies.
 
 ## 📋 Table of Contents
-1. <a href="#1-ai-engineeringmd" target="_blank">AI Engineering.md</a>
-2. <a href="#2-ai-cloud-engineeringmd" target="_blank">AI Cloud Engineering.md</a>
-3. <a href="#4-ai-modelsmd" target="_blank">AI Models.md</a>
-4. <a href="#5-ai-solutionsmd" target="_blank">AI Solutions.md</a>
-5. <a href="#6-mcpmd" target="_blank">MCP.md</a>
-6. <a href="#7-technical-competenciesmd" target="_blank">Technical Competencies.md</a>
-7. <a href="#3-ai-engineering-projectmd" target="_blank">AI Engineering Project.md</a>
+1. <a href="./AI-Engineering.md" target="_blank" title="Enterprise AI Strategy & Implementation, Fortune 500 case studies, ROI metrics">AI Engineering.md</a>
+2. <a href="./AI-Cloud-Engineering.md" target="_blank" title="Multi-cloud AI Architecture guide, cost savings, security & compliance">AI Cloud Engineering.md</a>
+3. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Engineering-Project.md" target="_blank" title="Healthcare data unification case study, HIPAA compliant, real implementation">AI Engineering Project.md</a>
+4. <a href="./AI-Models.md" target="_blank" title="Model catalog, LLMs, foundation & specialty models, deployment guidance">AI Models.md</a>
+5. <a href="https://github.com/vonnerco/A.I-Engineering/blob/main/AI-Solutions.md" target="_blank" title="AI Solutions catalog, pre-built pipelines, workflows, evaluation criteria">AI Solutions.md</a>
+6. <a href="./MCP.md" target="_blank" title="Model Context Protocol overview, multi-turn context, safe state handoff, retrieval patterns">MCP.md</a>
+7. <a href="./Technical-Competencies.md" target="_blank" title="Directory of AI, Data, Software Engineer skills, seniority, location, workflow">AI, Data, Software Engineer Skills</a>
+
 
 ---
 
@@ -72,13 +73,14 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 6. <a id="7-technical-competenciesmd"></a><a href="./Technical-Competencies.md" target="_blank">Technical Competencies.md</a>
+### 6. <a id="7-technical-competenciesmd"></a><a href="./Technical-Competencies.md" target="_blank">AI, Data, Software Engineer Skills</a>
 **AI Engineering Talent**
 - Purpose: searchable directory of technical specialties, geographies, and high availability for rapid sourcing
 - Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
 - Usage: suggested filters, sample queries, and recommended hiring workflow (screen → technical check → shortlist)
 
 [Back to Top](#)
+
 
 ---
 
