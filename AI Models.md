@@ -95,7 +95,7 @@ Use the links below to navigate directly to the section you need.
 
 ---
 
-## 📝 Prompt Engineering vs Fine-Tuning
+## 📝 Prompt Engineering vs Fine-Tuning LLMs
 
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Prompt Engineering vs Fine-Tuning</summary>
