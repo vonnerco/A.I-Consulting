@@ -58,7 +58,7 @@ Healthcare AI Platform:
 └── 📈 Monitoring → CloudWatch, custom health checks, automated alerting
 ```
 
-## ⚠️ Key Technical Achievements
+## ⚠️ Technical Achievements
 
 ### **🔥 Challenge 1: Data Schema Heterogeneity**
 **🚨 Problem**: 25 EMR systems with incompatible formats  
