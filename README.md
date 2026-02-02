@@ -73,7 +73,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### 6. <a id="7-technical-competenciesmd"></a><a href="./Technical-Competencies.md" target="_blank">AI, Data, Software Engineer Skills</a>
+### 6. <a id="7-technical-competenciesmd"></a><a href="./Technical-Competencies.md" target="_blank">AI, Data & Software Engineering Skills</a>
 **AI Engineering Talent**
 - Purpose: searchable directory of technical specialties, geographies, and high availability for rapid sourcing
 - Data fields: skills, seniority, location, employment type, visa/clearance notes, and overall subject knowledge
