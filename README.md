@@ -5,13 +5,16 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 <a id="top"></a>
 
 ## 📋 Table of Contents
-- **AI Engineering.md** | <a href="#1-ai-engineeringmd">README</a>
-- **AI Cloud Engineering.md** | <a href="#2-ai-cloud-engineeringmd">README</a>
-- **AI Engineering Project.md** | <a href="#3-ai-engineering-projectmd">README</a>
-- **AI Models.md** | <a href="#4-ai-modelsmd">README</a>
-- **AI Solutions.md** | <a href="#5-ai-solutionsmd">README</a>
-- **MCP.md** | <a href="#6-mcpmd">README</a>
-- **AI, Data & Software Engineering Skills** | <a href="#7-technical-competenciesmd">README</a>
+
+| Section | README |
+|---------|--------|
+| [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md){:target="_blank"} | [README](#1-ai-engineeringmd) |
+| [AI Cloud Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md){:target="_blank"} | [README](#2-ai-cloud-engineeringmd) |
+| [AI Engineering Project.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering%20Project.md){:target="_blank"} | [README](#3-ai-engineering-projectmd) |
+| [AI Models.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Models.md){:target="_blank"} | [README](#4-ai-modelsmd) |
+| [AI Solutions.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md){:target="_blank"} | [README](#5-ai-solutionsmd) |
+| [MCP.md](https://github.com/vonnerco/A.I-Engineering/blob/main/MCP.md){:target="_blank"} | [README](#6-mcpmd) |
+| [AI, Data & Software Engineering Skills](https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md){:target="_blank"} | [README](#7-technical-competenciesmd) |
 
 ---
 
