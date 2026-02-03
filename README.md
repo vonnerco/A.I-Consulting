@@ -12,7 +12,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 |--------|--------|
 | [AI Models.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Models.md) | [README](#1-ai-modelsmd) |
 | [AI Solutions.md](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20Solutions.md) | [README](#2-ai-solutionsmd) |
-| [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md) | [README](#3-ai-engineeringmd) |
+| [AI Engineering Overview.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md) | [README](#3-ai-engineering-overviewmd) |
 | [AI Cloud Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Cloud%20Engineering.md) | [README](#4-ai-cloud-engineeringmd) |
 | [AI MCP Engineering](https://github.com/vonnerco/A.I-Engineering/blob/main/AI%20MCP%20Engineering.md) | [README](#5-ai-mcp-engineering) |
 | [AI, Data & Software Engineering Skills](https://github.com/vonnerco/A.I-Engineering/blob/main/Technical%20Competencies.md) | [README](#6-technical-competenciesmd) |
@@ -53,7 +53,7 @@ Enterprise AI/ML transformation solutions delivering 250%+ ROI across Fortune 50
 
 ---
 
-### <a id="3-ai-engineeringmd"></a>
+### <a id="3-ai-engineeringoverviewmd"></a>
 [AI Engineering.md](https://github.com/vonnerco/A.I-Engineering/blob/main/A.I%20Engineering.md)
 
 **Enterprise AI Strategy & Implementation**
