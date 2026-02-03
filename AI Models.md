@@ -12,6 +12,7 @@ Use the links below to navigate directly to the section you need.
   *Guidance on choosing the best AI model based on your specific business use-case.*
 
 * **[Deployment Strategies](#-deployment-strategies)**
+* * **[Deployment Strategies](#-deployment-strategies)**
   *Containerized inference, batching, quantization, autoscaling.*
 
 * **[Monitoring Signals](#-monitoring-signals)**
