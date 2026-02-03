@@ -116,7 +116,7 @@ Use the links below to navigate directly to the section you are interested in.
 ## ✅ Evaluation 
 
 <details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand Evaluation Checklist</summary>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Evaluation Metrics</summary>
 
 * **Benchmarks** – Measure model performance against standard datasets.
 * **HITL Validation** – Incorporate human-in-the-loop to verify critical outputs.
