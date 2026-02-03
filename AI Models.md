@@ -1,13 +1,12 @@
 ## 📑 Table of Contents
 
-<details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand Table of Contents</summary>
+Use the links below to navigate directly to the section you need.
 
 * **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
   *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
 * **[New Since 2025](#-new-since-2025)**
-  *Overview of frontier proprietary, open-source, and emerging models.*
+  *Highlights of the latest proprietary and open-source AI models.*
 
 * **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on your specific business use-case.*
@@ -16,22 +15,20 @@
   *Containerized inference, batching, quantization, autoscaling.*
 
 * **[Monitoring Signals](#-monitoring-signals)**
-  *Key metrics like latency, throughput, drift, and error rates.*
+  *Key metrics for model performance and reliability.*
 
 * **[Evaluation Checklist](#-evaluation-checklist)**
-  *Benchmarks, human-in-the-loop validation, and safety guardrails.*
+  *Benchmarks, HITL validation, safety guardrails.*
 
 * **[Prompt Engineering vs Fine-Tuning](#-prompt-engineering-vs-fine-tuning)**
-  *Tradeoffs and best practices for multi-cloud platforms (MCPs).*
-
-</details>
+  *Prompt engineering is fast & cost-effective, while fine-tuning is resource-intensive.*
 
 ---
 
 ## 🤖 Latest AI Model Comparison (2026)
 
 <details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand Latest AI Model Comparison</summary>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Latest AI Model Comparison (2026)</summary>
 
 | Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
 | ----------------- | -------------------------------------- | -------------- | --------------------------------- | --------------- | -------------------------- | ---------------------------------------------- |
@@ -78,7 +75,7 @@
 ## 🧩 Quick Recommendation (2026)
 
 <details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand Quick Recommendation</summary>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Quick Recommendation (2026)</summary>
 
 ### 🛠 Coding & Development
 
