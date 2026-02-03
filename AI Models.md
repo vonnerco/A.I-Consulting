@@ -1,9 +1,9 @@
 ## 📑 Table of Contents
 
-Use the links below to navigate directly to the section you need.
+Use the links below to navigate directly to the section you are interested in.
 
 * **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
-  *Explore the full comparison table with context, cost, and strengths of all major AI models.*
+  *Explore a full comparison table with context, cost, and strengths of all major AI models.*
 
 * **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on your specific business use-case.*
@@ -12,27 +12,6 @@ Use the links below to navigate directly to the section you need.
   *Prompt engineering is fast & cost-effective, while fine-tuning is resource-intensive.*
 
 ---
-
-## 🤖 Latest AI Model Comparison (2026)
-
-<details>
-<summary style="font-size:16px; cursor:pointer;">Click to expand Latest AI Model Comparison (2026)</summary>
-
-| Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
-| ----------------- | -------------------------------------- | -------------- | --------------------------------- | --------------- | -------------------------- | ---------------------------------------------- |
-| GPT-5.2           | OpenAI                                 | ~400K+         | Proprietary tier                  | ✅ Excellent     | ✅ Excellent                | Top reasoning & multimodal generation          |
-| Gemini 3 Pro      | Google DeepMind                        | 1M tokens      | Mid-to-high                       | ✅ Excellent     | ✅ Excellent                | Massive context + multimodal + video reasoning |
-| Gemini 3 Flash    | Google DeepMind                        | ~128K          | Low-cost variant                  | ⚠️ Good         | ✅ Very Good                | Fast & cost-effective                          |
-| Claude Opus 4.5   | Anthropic                              | ~200K tokens   | Moderate-high                     | ✅ Excellent     | ❌ Moderate                 | Strong coding & reasoning                      |
-| Claude Sonnet 4.5 | Anthropic                              | ~200K tokens   | Moderate                          | ✅ Very Good     | ✅ Very Good                | Balanced performance/cost                      |
-| Claude Haiku 4.5  | Anthropic                              | ~200K tokens   | Budget-friendly                   | ⚠️ Good         | ✅ Good                     | Lightweight, efficient variant                 |
-| DeepSeek-V3.2     | DeepSeek                               | ~128K tokens   | Very low-cost                     | ✅ Excellent     | ✅ Very Good                | Strong open-source performer                   |
-| Llama 4 Maverick  | Meta                                   | 128K           | Free (self-hosted)                | ✅ Good          | ✅ Very Good                | Open-source, customizable                      |
-| Nano Banana Pro   | Google community / Gemini flash family | Varies         | N/A                               | ⚠️ Good         | ⚠️ Good                    | Lightweight open variant                       |
-| xAI Grok 4.1 Fast | xAI                                    | ~128K tokens   | Lower cost                        | ⚠️ Good         | Good                       | Real-time X data integration                   |
-
-</details>
-
 ---
 
 ## 🧠 New Since 2025
@@ -65,19 +44,19 @@ Use the links below to navigate directly to the section you need.
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Quick Recommendation (2026)</summary>
 
-### 🛠 Coding & Development
+### 🛠 Coding & Development Models
 
 * Top: Claude Opus 4.5, GPT-5.2
 * Best Cost-Performance: DeepSeek-V3.2, Claude Sonnet 4.5
 * Massive Projects: Gemini 3 Pro
 
-### 📚 General Purpose / Reasoning
+### 📚 General Purpose / Reasoning Models
 
 * Top: GPT-5.2, Gemini 3 Pro
 * Balanced: Claude Sonnet 4.5, DeepSeek-V3.2
 * Budget/Free: Llama 4 variants
 
-### 🏎️ Fast & Cheap
+### 🏎️ Fast & Cheap Models
 
 * Best: Gemini 3 Flash (low cost), DeepSeek-V3.2
 * Lightweight: Claude Haiku 4.5
@@ -85,8 +64,29 @@ Use the links below to navigate directly to the section you need.
 </details>
 
 ---
+## 🤖 Latest AI Model Comparison (2026)
 
-## ⚙️ Deployment Strategies
+<details>
+<summary style="font-size:16px; cursor:pointer;">Click to expand Latest AI Model Comparison (2026)</summary>
+
+| Model Name        | Company                                | Context Window | Cost per 1M Tokens (Input/Output) | Best for Coding | Best for General Questions | Key Strengths                                  |
+| ----------------- | -------------------------------------- | -------------- | --------------------------------- | --------------- | -------------------------- | ---------------------------------------------- |
+| GPT-5.2           | OpenAI                                 | ~400K+         | Proprietary tier                  | ✅ Excellent     | ✅ Excellent                | Top reasoning & multimodal generation          |
+| Gemini 3 Pro      | Google DeepMind                        | 1M tokens      | Mid-to-high                       | ✅ Excellent     | ✅ Excellent                | Massive context + multimodal + video reasoning |
+| Gemini 3 Flash    | Google DeepMind                        | ~128K          | Low-cost variant                  | ⚠️ Good         | ✅ Very Good                | Fast & cost-effective                          |
+| Claude Opus 4.5   | Anthropic                              | ~200K tokens   | Moderate-high                     | ✅ Excellent     | ❌ Moderate                 | Strong coding & reasoning                      |
+| Claude Sonnet 4.5 | Anthropic                              | ~200K tokens   | Moderate                          | ✅ Very Good     | ✅ Very Good                | Balanced performance/cost                      |
+| Claude Haiku 4.5  | Anthropic                              | ~200K tokens   | Budget-friendly                   | ⚠️ Good         | ✅ Good                     | Lightweight, efficient variant                 |
+| DeepSeek-V3.2     | DeepSeek                               | ~128K tokens   | Very low-cost                     | ✅ Excellent     | ✅ Very Good                | Strong open-source performer                   |
+| Llama 4 Maverick  | Meta                                   | 128K           | Free (self-hosted)                | ✅ Good          | ✅ Very Good                | Open-source, customizable                      |
+| Nano Banana Pro   | Google community / Gemini flash family | Varies         | N/A                               | ⚠️ Good         | ⚠️ Good                    | Lightweight open variant                       |
+| xAI Grok 4.1 Fast | xAI                                    | ~128K tokens   | Lower cost                        | ⚠️ Good         | Good                       | Real-time X data integration                   |
+
+</details>
+
+
+
+## ⚙️ Deployment 
 
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Deployment Strategies</summary>
@@ -100,7 +100,7 @@ Use the links below to navigate directly to the section you need.
 
 ---
 
-## 📊 Monitoring Signals
+## 📊 Monitoring 
 
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Monitoring Signals</summary>
@@ -113,7 +113,7 @@ Use the links below to navigate directly to the section you need.
 
 ---
 
-## ✅ Evaluation Checklist
+## ✅ Evaluation 
 
 <details>
 <summary style="font-size:16px; cursor:pointer;">Click to expand Evaluation Checklist</summary>
@@ -153,6 +153,6 @@ Use the links below to navigate directly to the section you need.
 
 ### Notes
 
-* Pricing is indicative based on typical API tiers and market trends (varies by plan/region).
-* Context window estimates are based on public specs and benchmarks.
-* Self-hosted/open-source options (like Llama or DeepSeek) do not charge token fees but require infrastructure.
+* Pricing is indicative based on typical API tiers, market trends & US region.
+* Context window estimates are based on public specs and LLM benchmarks.
+* Self-hosted/open-source options do not charge token fees but require infrastructure.
