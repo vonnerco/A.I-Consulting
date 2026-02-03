@@ -5,21 +5,8 @@ Use the links below to navigate directly to the section you need.
 * **[Latest AI Model Comparison (2026)](#-latest-ai-model-comparison-2026)**
   *Explore the full comparison table with context, cost, and strengths of all major AI models.*
 
-* **[New Since 2025](#-new-since-2025)**
-  *Highlights of the latest proprietary and open-source AI models.*
-
 * **[Quick Recommendation (2026)](#-quick-recommendation-2026)**
   *Guidance on choosing the best AI model based on your specific business use-case.*
-
-* **[Deployment Strategies](#-deployment-strategies)**
-* * **[Deployment Strategies](#-deployment-strategies)**
-  *Containerized inference, batching, quantization, autoscaling.*
-
-* **[Monitoring Signals](#-monitoring-signals)**
-  *Key metrics for model performance and reliability.*
-
-* **[Evaluation Checklist](#-evaluation-checklist)**
-  *Benchmarks, HITL validation, safety guardrails.*
 
 * **[Prompt Engineering vs Fine-Tuning](#-prompt-engineering-vs-fine-tuning)**
   *Prompt engineering is fast & cost-effective, while fine-tuning is resource-intensive.*
